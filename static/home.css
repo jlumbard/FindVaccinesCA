@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:300,400,400i,700');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 30px;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+
+ #canadaMap {
+ 	width: 60vw;
+ 	margin: 0 auto;
+ 	display: block;
+ 	padding-top:10vh;
+     max-height:80vh;
+ }
+svg {
+	fill: lightgrey;
+}
+
+g:hover{ 
+	cursor: pointer;
+ }
+
+
+.province_text{
+	font-size:11px;
+	fill:black;}
+.st2{fill:none;}
+.st3{font-family:'MyriadPro-Regular';}
+.st5{fill:#FFFFFF;}
+.st6{fill:black;}
+
+.MapContainer{
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* each province */
+
+#NFL_L{
+
+}
+
+#BC{
+
+}
+
+#Nova_Scotia{
+
+}
+
+#Quebec{
+
+}
+
+#Ontario{
+
+}
+
+#Yukon{
+
+}
+
+#NWT{
+
+}
+
+#Nunavut{
+
+}
+
+#PEI{
+
+}
+
+#New_Brunswick{
+
+}
+
+#Manitoba{
+
+}
+#Sask{
+
+}
+
+#Alberta{
+    
+}

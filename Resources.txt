@@ -12,3 +12,13 @@ Saskatchewan
 Northwest Territories
 Nunavut
 Yukon
+
+
+Colours:
+https://coolors.co/0a203d-53bfb8-fffef2-b3dc9e-235d0e
+0A203D
+53BFB8
+FFFEF2
+EBEAEA
+B3DC9E
+235D0E

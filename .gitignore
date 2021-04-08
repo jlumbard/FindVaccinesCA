@@ -1,0 +1,4 @@
+Config.py
+*.pyc
+*.csv
+__pycache__/
