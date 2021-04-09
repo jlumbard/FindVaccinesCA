@@ -30,7 +30,6 @@ body {
  	margin: 0 auto;
  	display: block;
  	padding-top:10vh;
-     max-height:80vh;
  }
 svg {
 	fill: #EBEAEA ;
@@ -55,10 +54,21 @@ g:hover{
     position: relative;
     height: 100vh;
     width:100vw;
+    background-image: url(streamUnsplash.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+.MapContainerOverlay{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+
 }
 
 .AllContainer{
@@ -74,8 +84,8 @@ g:hover{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
-    background-color:#53BFB8 ;
+    justify-content: flex-start;
+    background-color:#B3DC9E;
     min-height:10vh;
     width:100vw;
 }
@@ -93,12 +103,36 @@ g:hover{
     height:20vh;
     background-color: #53BFB8;
     width: 100vw;
+    scroll-snap-align: end;
 }
 
 .bannerCover{
     background-color: rgba(35,93,14,0.7);
+    /* Should make the above colour closer to black overall */
     width:100%;
     height:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.upperBanner{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 80%;
+}
+
+.lowerBanner{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 20%;
 }
 
 .HeaderInfo h1{
@@ -110,13 +144,17 @@ g:hover{
 .HeaderInfo h4{
     font-family: 'Open Sans'; 
     font-weight: 300;
-    font-size:1.2em
+    font-size:1.6em
 }
 .HeaderInfo{
+    height: 100%;
+    margin-left:50px;
+    margin-right:50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    color:white;
 
 }
 
@@ -126,6 +164,107 @@ body{
 
 *{
     font-family:'Open Sans';
+    scroll-behavior: smooth;
+}
+
+.BannerText{
+    font-size: 3.7em;
+    color:#EBEAEA;
+    text-align: center;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+}
+.leftBanner{
+    width:40vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height:80%;
+}
+
+.rightBanner div{
+    width:100%;
+}
+
+.rightBanner{
+    width:40vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color:#EBEAEA;
+    height:80%;
+}
+
+.BannerDescription1{
+    text-align: center;
+    font-size: 2.2em;
+    color:#EBEAEA;
+}
+
+.rightBanner h2{
+    font-size: 3.0em;
+    margin-bottom: 25px;
+
+}
+
+.rightBanner li{
+    font-size: 2.0em;
+    line-height: 1.5em;
+}
+
+.CTAButton{
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 25px;
+    border-radius: 25px;
+    font-size: 3em;
+    color: white;
+    outline:none;
+}
+
+.bannerSeparator{
+    height:90%;
+}
+
+.leftHandInfo{
+    position:absolute;
+    top:5%;
+    left:10%;
+    color:white;
+}
+.leftHandInfo h4{
+    font-size: 2.0em;
+    font-weight: 300;
+}
+
+.leftHandInfo h1{
+    margin-bottom: 15px;
+    font-size: 4.8em;
+    font-weight: 300;
+}
+
+.modal{
+    margin:auto;
+    width:65%;
+    height:65%;
+    /* background-color: grey; */
+    position: absolute;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+.modalHeader{
+    position:absolute;
+    top:10%;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    width:100%;
+    font-size: 3em;
 }
 
 /* each province */
