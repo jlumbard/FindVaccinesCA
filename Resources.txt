@@ -13,6 +13,9 @@ Northwest Territories
 Nunavut
 Yukon
 
+Abbreviations: 
+AB, BC, MB, NB, NFL, NS, ON, PEI, QC, SK, NWT, NVT,YK
+
 
 Colours:
 https://coolors.co/0a203d-53bfb8-fffef2-b3dc9e-235d0e

@@ -33,11 +33,12 @@ body {
      max-height:80vh;
  }
 svg {
-	fill: lightgrey;
+	fill: #EBEAEA ;
 }
 
 g:hover{ 
 	cursor: pointer;
+    fill:#235D0E;
  }
 
 
@@ -50,6 +51,8 @@ g:hover{
 .st6{fill:black;}
 
 .MapContainer{
+    scroll-snap-align: start;
+    position: relative;
     height: 100vh;
     width:100vw;
     display: flex;
@@ -58,9 +61,77 @@ g:hover{
     justify-content: center;
 }
 
+.AllContainer{
+    width:100vw;
+    min-height:100vh;
+    height:100vh;
+    overflow: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+.header{
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:#53BFB8 ;
+    min-height:10vh;
+    width:100vw;
+}
+.banner{
+    position: relative;
+    height:90vh;
+    background-color: #235D0E;
+    width: 100vw;
+    background-image: url(streamUnsplash.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+.footer{
+    height:20vh;
+    background-color: #53BFB8;
+    width: 100vw;
+}
+
+.bannerCover{
+    background-color: rgba(35,93,14,0.7);
+    width:100%;
+    height:100%;
+}
+
+.HeaderInfo h1{
+    font-family: 'Open Sans'; 
+    font-weight: 300;
+    font-size: 3.2em;
+    margin-bottom: 0px;
+}
+.HeaderInfo h4{
+    font-family: 'Open Sans'; 
+    font-weight: 300;
+    font-size:1.2em
+}
+.HeaderInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #B3DC9E;
+}
+
+*{
+    font-family:'Open Sans';
+}
+
 /* each province */
 
-#NFL_L{
+
+#NFL{
 
 }
 
@@ -68,19 +139,19 @@ g:hover{
 
 }
 
-#Nova_Scotia{
+#NS{
 
 }
 
-#Quebec{
+#QC{
 
 }
 
-#Ontario{
+#ON{
 
 }
 
-#Yukon{
+#YK{
 
 }
 
@@ -88,7 +159,7 @@ g:hover{
 
 }
 
-#Nunavut{
+#NVT{
 
 }
 
@@ -96,17 +167,18 @@ g:hover{
 
 }
 
-#New_Brunswick{
+#NB{
 
 }
 
-#Manitoba{
-
-}
-#Sask{
+#MB{
 
 }
 
-#Alberta{
-    
+#SK{
+
+}
+
+#AB{
+
 }
