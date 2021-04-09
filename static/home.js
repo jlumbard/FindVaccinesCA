@@ -32,8 +32,15 @@ $(document).ready(function() {
                 targetText =  event.target.id
             }
             console.log(targetText)
-            targetText = "Find Vaccines In " + targetText
-            modalHeader.appendChild(document.createTextNode(targetText))
+            FullTargetText = "Find Vaccines In " + targetText
+            modalHeader.appendChild(document.createTextNode(FullTargetText))
+
+            console.log('#'+targetText+'_Guidance')
+            var elementToAppear = document.querySelector('#'+targetText+'_Guidance');
+            elementToAppear.style.display = 'inline'
+
+            //Set the redirect
+            document.querySelector('.CTAButton2 a').href = "/Province/" + targetText
         })
 
     }

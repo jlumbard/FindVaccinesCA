@@ -1,0 +1,108 @@
+
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    background-color: #B3DC9E;
+}
+
+.header{
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color:#B3DC9E;
+    min-height:10vh;
+    width:100vw;
+}
+
+.AllContainer{
+    width:100vw;
+    min-height:100vh;
+    height:100vh;
+    overflow: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+*{
+    font-family:'Open Sans';
+    scroll-behavior: smooth;
+}
+
+.bodyHolder{
+    height:90vh;
+    background-image: url(streamUnsplash.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+.bodyCover{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(35,93,14,0.7);
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.HeaderInfo h1{
+    font-family: 'Open Sans'; 
+    font-weight: 300;
+    font-size: 3.2em;
+    margin-bottom: 0px;
+}
+.HeaderInfo h4{
+    font-family: 'Open Sans'; 
+    font-weight: 300;
+    font-size:1.6em
+}
+.HeaderInfo{
+    height: 100%;
+    margin-left:50px;
+    margin-right:50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+
+.bannerSeparator{
+    height:90%;
+    margin:0px;
+}
+
+.mapHolder{
+    height:80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.mapHolder h3{
+    font-size: 2em;
+    color:white;
+    font-family: 'Open Sans';
+    font-weight: 300;
+
+}
+
+.usageDescription{
+    max-width:45vw;
+}
+.usageDescription h1{
+    font-size: 3em;
+    color:white;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+.usageDescription h4{
+    font-size: 2em;
+    color:white;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}

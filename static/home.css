@@ -13,10 +13,9 @@
 }
 
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-weight: 100;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
   font-size: 12px;
-  line-height: 30px;
 }
 .container {
   width: 100%;
@@ -39,6 +38,9 @@ g:hover{
 	cursor: pointer;
     fill:#235D0E;
  }
+ .whiteText{
+     fill:white !important;
+ }
 
 
 .province_text{
@@ -47,7 +49,7 @@ g:hover{
 .st2{fill:none;}
 .st3{font-family:'MyriadPro-Regular';}
 .st5{fill:#FFFFFF;}
-.st6{fill:black;}
+.st6{fill:white;}
 
 .MapContainer{
     scroll-snap-align: start;
@@ -233,6 +235,7 @@ body{
     top:5%;
     left:10%;
     color:white;
+    line-height: normal;
 }
 .leftHandInfo h4{
     font-size: 2.0em;
@@ -240,6 +243,25 @@ body{
 }
 
 .leftHandInfo h1{
+    margin-bottom: 15px;
+    font-size: 4.8em;
+    font-weight: 300;
+}
+
+.rightHandInfo{
+    position:absolute;
+    top:20%;
+    right:4%;
+    color:white;
+    text-align: right;
+    line-height: normal;
+}
+.rightHandInfo h4{
+    font-size: 2.0em;
+    font-weight: 300;
+}
+
+.rightHandInfo h1{
     margin-bottom: 15px;
     font-size: 4.8em;
     font-weight: 300;
@@ -256,15 +278,46 @@ body{
     backdrop-filter: blur(10px);
 }
 .modalHeader{
-    position:absolute;
-    top:10%;
-    margin-left:auto;
-    margin-right:auto;
     color:white;
     font-family: 'Open Sans';
     font-weight: 300;
     width:100%;
     font-size: 3em;
+}
+
+.modalContent{
+    width: 80%;
+    /* height:70%; */
+    color: white;
+    font-size: 1.5em;
+}
+
+.modalHolder{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height:90%;
+}
+
+.CTAButton2{
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 2.3em;
+    color: white;
+    outline:none;
+    text-decoration: none;
+}
+
+.CTAButton2 a{
+    color:white;
+    text-decoration: none;
+}
+
+.provinceGuidance{
+    display:none;
 }
 
 /* each province */
