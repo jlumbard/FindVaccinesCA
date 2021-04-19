@@ -81,16 +81,6 @@ g:hover{
     scroll-snap-type: y mandatory;
 }
 
-.header{
-    scroll-snap-align: start;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    background-color:#B3DC9E;
-    min-height:10vh;
-    width:100vw;
-}
 .banner{
     position: relative;
     height:90vh;
@@ -137,28 +127,6 @@ g:hover{
     height: 20%;
 }
 
-.HeaderInfo h1{
-    font-family: 'Open Sans'; 
-    font-weight: 300;
-    font-size: 3.2em;
-    margin-bottom: 0px;
-}
-.HeaderInfo h4{
-    font-family: 'Open Sans'; 
-    font-weight: 300;
-    font-size:1.6em
-}
-.HeaderInfo{
-    height: 100%;
-    margin-left:50px;
-    margin-right:50px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color:white;
-
-}
 
 body{
     background-color: #B3DC9E;

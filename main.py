@@ -41,8 +41,10 @@ def home():
 
 @app.route('/Province/<Province>')
 def Province(Province=None):
-    # No one should ever get to this URL
+
+    ProvinceCenters = {'SK':{'LL':[-105.7520351,52],'Zoom':5}}
     if Province == None:
+        # No one should ever get to this URL
         return redirect(url_for(home))
     else:
-        return render_template('province.html',Province = Province)
+        return render_template('province.html',Province = Province, ProvinceCenter = ProvinceCenters[Province])

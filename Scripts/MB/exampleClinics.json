@@ -1,0 +1,190 @@
+{'objectIdFieldName': 'ObjectId', 'uniqueIdField': {'name': 'ObjectId', 'isSystemMaintained': True
+    }, 'globalIdFieldName': '', 'geometryType': 'esriGeometryPoint', 'spatialReference': {'wkid': 102100, 'latestWkid': 3857
+    }, 'fields': [
+        {'name': 'Provider_Type', 'type': 'esriFieldTypeString', 'alias': 'Provider Type', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Provider_Name', 'type': 'esriFieldTypeString', 'alias': 'Provider Name', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Status', 'type': 'esriFieldTypeString', 'alias': 'Status', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Date_Updated', 'type': 'esriFieldTypeDate', 'alias': 'Date Updated', 'sqlType': 'sqlTypeTimestamp2', 'length': 8, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Vaccine_Comments', 'type': 'esriFieldTypeString', 'alias': 'Vaccine Comments', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Note', 'type': 'esriFieldTypeString', 'alias': 'Note', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Address', 'type': 'esriFieldTypeString', 'alias': 'Address', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'City', 'type': 'esriFieldTypeString', 'alias': 'City', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Province', 'type': 'esriFieldTypeString', 'alias': 'Province', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Postal_Code', 'type': 'esriFieldTypeString', 'alias': 'Postal Code', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'Phone', 'type': 'esriFieldTypeString', 'alias': 'Phone', 'sqlType': 'sqlTypeNVarchar', 'length': 4000, 'domain': None, 'defaultValue': None
+        },
+        {'name': 'ObjectId', 'type': 'esriFieldTypeOID', 'alias': 'ObjectId', 'sqlType': 'sqlTypeInteger', 'domain': None, 'defaultValue': None
+        }
+    ], 'features': [
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Grandview Medical Clinic', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '644 Mill St', 'City': 'Grandview', 'Province': 'Manitoba', 'Postal_Code': 'R0L 0Y0', 'Phone': '204-648-3028', 'ObjectId': 18
+            }, 'geometry': {'x': -11209535.398069538, 'y': 6653213.070628987
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Gimli Express Care Clinic', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '50 Center St Box 40', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '204-641-1380', 'ObjectId': 55
+            }, 'geometry': {'x': -10796934.06251353, 'y': 6556497.76315169
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Dauphin Medical Clinic', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '622 3rd St SW', 'City': 'Dauphin', 'Province': 'Manitoba', 'Postal_Code': 'R7N 3C6', 'Phone': '204-639-6445', 'ObjectId': 73
+            }, 'geometry': {'x': -11138779.287090797, 'y': 6647331.967812532
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Winnipegosis Clinic', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '230 Bridge St Box 339', 'City': 'Winnipegosis', 'Province': 'Manitoba', 'Postal_Code': 'R0L 2G0', 'Phone': '204-656-4492', 'ObjectId': 98
+            }, 'geometry': {'x': -11124369.691414285, 'y': 6735364.437445693
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': "Dr Gouda's Medical Clinic", 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '3 900 Main St', 'City': 'Swan River', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-2769', 'ObjectId': 104
+            }, 'geometry': {'x': -11272694.652997434, 'y': 6819391.743868957
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Ashern Pharmcy Medical Clinic', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '43 Main St', 'City': 'Ashern', 'Province': 'Manitoba', 'Postal_Code': 'R0C 0E0', 'Phone': '204-768-3565', 'ObjectId': 108
+            }, 'geometry': {'x': -10947909.107069073, 'y': 6653531.543223313
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Safeway Pharmacy #4832', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '300 Mystery Lake Rd', 'City': 'Thompson', 'Province': 'Manitoba', 'Postal_Code': 'R8N 0M2', 'Phone': '204-677-3064', 'ObjectId': 124
+            }, 'geometry': {'x': -10892424.219256846, 'y': 7507655.584384332
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Dauphin Clinic Pharmacy', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '622 3rd St SW', 'City': 'Dauphin', 'Province': 'Manitoba', 'Postal_Code': 'R7N 1R5', 'Phone': '204-638-4602', 'ObjectId': 125
+            }, 'geometry': {'x': -11138736.896597968, 'y': 6647343.129530185
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Drug store Pharmacy # 9079', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '12 Hwy #10 N', 'City': 'The Pas', 'Province': 'Manitoba', 'Postal_Code': 'R9A 1K2', 'Phone': '204-623-1289', 'ObjectId': 189
+            }, 'geometry': {'x': -11271166.459027825, 'y': 7135097.706533542
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Shoppers Drug Mart #549', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '17 Selkirk Ave', 'City': 'Thompson', 'Province': 'Manitoba', 'Postal_Code': 'R8N 0M5', 'Phone': '204-778-8391', 'ObjectId': 207
+            }, 'geometry': {'x': -10892808.87566205, 'y': 7507109.382560695
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Wal-Mart Pharmacy #3660', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '200 Pth #10A', 'City': 'Flin Flon', 'Province': 'Manitoba', 'Postal_Code': 'R8A 0C6', 'Phone': '204-687-7188', 'ObjectId': 213
+            }, 'geometry': {'x': -11341114.728984723, 'y': 7317316.749662973
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'The Pas Super Thrifty Drug Mart', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '11 Otineka Mall AVE', 'City': 'Opaskwayak', 'Province': 'Manitoba', 'Postal_Code': 'R9A 1P8', 'Phone': '204-623-5150', 'ObjectId': 234
+            }, 'geometry': {'x': -11272416.694873694, 'y': 7138866.664428312
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Winnipeg Beach Pharmacy', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '54 Main St Box 475', 'City': 'Winnipeg Beach', 'Province': 'Manitoba', 'Postal_Code': 'R0C 3G0', 'Phone': '204-389-3971', 'ObjectId': 235
+            }, 'geometry': {'x': -10794393.852097923, 'y': 6533036.194722552
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Swan Valley Primary Care Centre', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '1000 Main St Box 1480', 'City': 'Swan River', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-6600', 'ObjectId': 258
+            }, 'geometry': {'x': -11272351.365914734, 'y': 6819255.467643751
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Gimli Community Health Centre', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '120 6th Ave Box 250', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '204-890-4790', 'ObjectId': 276
+            }, 'geometry': {'x': -10797321.32073659, 'y': 6555739.142396025
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Ekosi Health Centre - Gimli', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': 'Suite A 41 Centre St Box 1121', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '866-370-8388', 'ObjectId': 291
+            }, 'geometry': {'x': -10796778.37112205, 'y': 6556407.310344675
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Grand Medicine Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': 'Lot 39 Hwy 325 Box 87', 'City': 'Hodgson', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1N0', 'Phone': '204-372-6048', 'ObjectId': 321
+            }, 'geometry': {'x': -10861875.251951078, 'y': 6659379.024049516
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Ashern Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '43 Main St', 'City': 'Ashern', 'Province': 'Manitoba', 'Postal_Code': 'R0C 0E0', 'Phone': '204-768-2824', 'ObjectId': 333
+            }, 'geometry': {'x': -10947909.107069073, 'y': 6653531.543223313
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Pharmasave #451', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '47 Centre St', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '204-642-8814', 'ObjectId': 335
+            }, 'geometry': {'x': -10796854.439292358, 'y': 6556401.0345959095
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Wal-Mart Pharmacy #3022', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '1450 Main St S', 'City': 'Dauphin', 'Province': 'Manitoba', 'Postal_Code': 'R7N 3H4', 'Phone': '204-638-4835', 'ObjectId': 339
+            }, 'geometry': {'x': -11138880.610060582, 'y': 6645672.950347332
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Wal-Mart Pharmacy #3102', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '300 Mystery Lake Rd', 'City': 'Thompson', 'Province': 'Manitoba', 'Postal_Code': 'R8N 0M2', 'Phone': '431-688-5621', 'ObjectId': 352
+            }, 'geometry': {'x': -10892405.565146908, 'y': 7507610.894284877
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Shoppers Drug Mart #2517', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': 'B 333 Edwards Ave Box 188', 'City': 'The Pas', 'Province': 'Manitoba', 'Postal_Code': 'R9A 1L7', 'Phone': '204-623-5331', 'ObjectId': 358
+            }, 'geometry': {'x': -11271085.529758018, 'y': 7136787.283455838
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Drugstore Pharmacy #9081 - Extra Foods', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '1200 Main St', 'City': 'Swan River', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-5535', 'ObjectId': 362
+            }, 'geometry': {'x': -11272228.22433101, 'y': 6819556.133888947
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Loblaw Pharmacy #4622', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '15 1st Ave NE', 'City': 'Dauphin', 'Province': 'Manitoba', 'Postal_Code': 'R7N 3M3', 'Phone': '204-622-2925', 'ObjectId': 363
+            }, 'geometry': {'x': -11137425.775635405, 'y': 6647701.944003792
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Taylor Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '50 Centre St Box 4000', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '204-642-8170', 'ObjectId': 370
+            }, 'geometry': {'x': -10796976.694812607, 'y': 6556505.431105315
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': "Mitchell's Drug Store", 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '125 Main St', 'City': 'Roblin', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1P0', 'Phone': '204-937-4424', 'ObjectId': 372
+            }, 'geometry': {'x': -11304327.088181758, 'y': 6784606.88595352
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Ste Rose Super Thrifty', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '610 Central Ave', 'City': 'Ste Rose Du Lac', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1S0', 'Phone': '204-447-2878', 'ObjectId': 375
+            }, 'geometry': {'x': -11078904.006130474, 'y': 6631835.435672837
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Swan Valley Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '811 Main St E Box 2200', 'City': 'Swan river', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-2882', 'ObjectId': 381
+            }, 'geometry': {'x': -11272772.354002008, 'y': 6819163.017121536
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Pharmasave #471', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '37 Main St', 'City': 'Flin Flon', 'Province': 'Manitoba', 'Postal_Code': 'R8A 1J7', 'Phone': '204-687-7677', 'ObjectId': 394
+            }, 'geometry': {'x': -11340719.322153425, 'y': 7316365.253324784
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Scales Drug Store', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '900 Main St', 'City': 'Swan River', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-3411', 'ObjectId': 397
+            }, 'geometry': {'x': -11272694.652997434, 'y': 6819391.743868957
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Next Door Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '1004 Main St E', 'City': 'Swan river', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-614-1800', 'ObjectId': 399
+            }, 'geometry': {'x': -11272432.014714114, 'y': 6819439.323900145
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Super Thrifty Pharmacy Dauphin', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '224 Main St N', 'City': 'Dauphin', 'Province': 'Manitoba', 'Postal_Code': 'R7N 1C4', 'Phone': '204-638-5330', 'ObjectId': 404
+            }, 'geometry': {'x': -11137272.822655056, 'y': 6648028.475287737
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Swan Health Care Plus Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '615 Main St', 'City': 'Swan River', 'Province': 'Manitoba', 'Postal_Code': 'R0L 1Z0', 'Phone': '204-734-3392', 'ObjectId': 407
+            }, 'geometry': {'x': -11273136.591375884, 'y': 6819159.9360605655
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Rossburn Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '23 Main St', 'City': 'Rossburn', 'Province': 'Manitoba', 'Postal_Code': 'R0J 1V0', 'Phone': '204-859-2705', 'ObjectId': 427
+            }, 'geometry': {'x': -11222159.723718239, 'y': 6562961.479093676
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'The Medicine Shoppe Pharmacy #396', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '1 330 Fischer Ave', 'City': 'The Pas', 'Province': 'Manitoba', 'Postal_Code': 'R9A 1K2', 'Phone': '204-623-5888', 'ObjectId': 431
+            }, 'geometry': {'x': -11271329.508079521, 'y': 7136639.9485913105
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Fisher Branch Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '3 80 Tache St', 'City': 'Fisher Branch', 'Province': 'Manitoba', 'Postal_Code': 'R0C 0Z0', 'Phone': '204-372-6444', 'ObjectId': 436
+            }, 'geometry': {'x': -10867205.392779598, 'y': 6635852.521887865
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Pine Falls Community Health', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': 'P1-61 37 Maple St', 'City': 'Pine Falls', 'Province': 'Manitoba', 'Postal_Code': 'R0E 1M0', 'Phone': '204-367-2807', 'ObjectId': 445
+            }, 'geometry': {'x': -10710588.097780885, 'y': 6544422.217867094
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': "St. Mary's Pharmacy - Gimli", 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '129 7th Ave', 'City': 'Gimli', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1B0', 'Phone': '204-651-1567', 'ObjectId': 451
+            }, 'geometry': {'x': -10797381.1499026, 'y': 6555562.890112266
+            }
+        },
+        {'attributes': {'Provider_Type': 'Pharmacy', 'Provider_Name': 'Lundar Pharmacy', 'Status': 'Taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '18 Main St Box 180', 'City': 'Lundar', 'Province': 'Manitoba', 'Postal_Code': 'R0C 1Y0', 'Phone': '204-762-5431', 'ObjectId': 467
+            }, 'geometry': {'x': -10912850.890478414, 'y': 6567573.393100613
+            }
+        },
+        {'attributes': {'Provider_Type': 'Medical Clinic', 'Provider_Name': 'Russell Medical Clinic', 'Status': 'Not currently taking appointments', 'Date_Updated': 1618808400000, 'Vaccine_Comments': None, 'Note': None, 'Address': '117 Westbourne St W', 'City': 'Russell', 'Province': 'Manitoba', 'Postal_Code': 'R0J 1W0', 'Phone': '204-773-2146', 'ObjectId': 470
+            }, 'geometry': {'x': -11275435.019405218, 'y': 6582675.469469784
+            }
+        }
+    ]
+}
