@@ -47,4 +47,4 @@ def Province(Province=None):
         # No one should ever get to this URL
         return redirect(url_for(home))
     else:
-        return render_template('province.html',Province = Province, ProvinceCenter = ProvinceCenters[Province])
+        return render_template('province2.html',Province = Province, ProvinceCenter = ProvinceCenters[Province])
