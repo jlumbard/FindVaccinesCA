@@ -4,7 +4,9 @@
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Web 1920 – 2</title>
+<title>Vaccine Finder</title>
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
 <style id="applicationStylesheet" type="text/css">
 	.mediaViewInfo {
 		--web-view-name: Web 1920 – 2;
@@ -2991,6 +2993,18 @@ window.application = new Application();
 	<div id="vaccine_map" class="vaccine_map">
 		<img id="Mask_Group_6" src="Mask_Group_6.png" srcset="Mask_Group_6.png 1x, Mask_Group_6@2x.png 2x">
 			
+<div id='map' style='width: 400px; height: 300px;'>	
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1Ijoic2FyYWhoc2ltIiwiYSI6ImNrbnQzaDhpMDB3aGkzMW8zNjd5OHo4ZnAifQ.GbHlLud52itkQX3LjnDq9g';
+	var map = new mapboxgl.Map({
+		container: 'map', // container ID
+		style: 'mapbox://styles/sarahhsim/cknt43xsv0uu317mlyy9o8bt7', // style URL
+		center: [-74.5, 40], // starting position [lng, lat]
+		zoom: 9 // starting zoom
+	});
+	</script>
+	</div>
+
 		</svg>
 	</div>
 	<div id="header" class="header">
