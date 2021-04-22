@@ -36,7 +36,7 @@ def home():
     'NVT':''
     }
 
-    return render_template('home.html', provinceGuidanceDict=provinceGuidanceDict)
+    return render_template('main.html', provinceGuidanceDict=provinceGuidanceDict)
 
 
 @app.route('/Province/<Province>')
