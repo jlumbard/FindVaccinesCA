@@ -70,5 +70,5 @@ def DeleteProvinceAndReAdd(Province):
 # DeleteProvinceAndReAdd('AB')
 # DeleteProvinceAndReAdd('MB')
 # DeleteProvinceAndReAdd('ON')
-# DeleteProvinceAndReAdd('QC') 
-DeleteProvinceAndReAdd('SK')
+DeleteProvinceAndReAdd('QC') 
+# DeleteProvinceAndReAdd('SK')

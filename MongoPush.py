@@ -62,6 +62,12 @@ def getAllLocations():
     print(mycol.find())
     return mycol.find()
 
+def getAllLocationsByProvince(prov):
+    mydb = getDB()
+    mycol = mydb["apptTimes"]
+    print(mycol.find())
+    return mycol.find({'province':prov})
+
 def getAllLatLong():
     mydb = getDB()
     mycol = mydb["latLongCombo"]

@@ -51,11 +51,14 @@ def scrapeQCLocations():
 
     joinedDF = pd.merge(df,establishmentDF,left_on="establishment",right_on="id", how="inner")
     print(joinedDF)
+    print(joinedDF.columns)
+    joinedDF.to_csv('QCTEst.csv')
 
     del joinedDF['address']
     del joinedDF['name']
     joinedDF['availabilities'] = joinedDF['availabilities'].astype(str)
     joinedDF['availabilities'] = joinedDF['availabilities'].str.replace("'",'"')
+    joinedDF['availabilities'] = joinedDF['availabilities'].str.replace("None",'0')
     joinedDF['NewAvailability'] = False
 
     joinedDF['availabilitiesTemp'] = joinedDF['availabilities'].apply(json.loads)

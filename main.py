@@ -2,6 +2,7 @@ from flask import Flask, render_template, redirect, url_for
 import sys
 import os
 import Config
+import MongoPush
 
 # to run run these commands sequentially:
 # export FLASK_APP=main.py
@@ -42,9 +43,14 @@ def home():
 @app.route('/Province/<Province>')
 def Province(Province=None):
 
-    ProvinceCenters = {'SK':{'LL':[-105.7520351,52],'Zoom':5}}
+    ProvinceCenters = {'SK':{'LL':[-105.7520351,52],'Zoom':5}, 'ON':{'LL':[-80.2207983,44.4713452],'Zoom':5}, 'QC':{'LL':[-73.5048354, 48.0306551],'Zoom':5},'MB':{'LL':[-98.0561298,51.2537912],'Zoom':5}, 'AB':{'LL':[-114.2950713, 51.5017414],'Zoom':5},'BC':{'LL':[-121.5070517,51.0690983],'Zoom':5}}
+    
+    ListOfLocations = MongoPush.getAllLocationsByProvince(Province)
+
+    #Do some voodoo here to add the LL if it isn't already in here 
+    
     if Province == None:
         # No one should ever get to this URL
         return redirect(url_for(home))
     else:
-        return render_template('province2.html',Province = Province, ProvinceCenter = ProvinceCenters[Province])
+        return render_template('province2.html',Province = Province, ProvinceCenter = ProvinceCenters[Province], ListOfLocations = ListOfLocations)
