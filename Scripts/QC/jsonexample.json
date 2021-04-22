@@ -1,0 +1,3671 @@
+{
+        "establishments": [
+                {
+                        "id": 60032,
+                        "name": "CIUSSS de la Capitale-Nationale - RLS de Qu\u00e9bec-Sud: Laurentien - Ste-Foy - Sillery - Haute-Ville Citoyens - Vaccin COVID-19",
+                        "phone": "",
+                        "address": "2915, avenue du Bourg-Royal",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/60032"
+                },
+                {
+                        "id": 60033,
+                        "name": "CIUSSS de la Capitale-Nationale - RLS de Qu\u00e9bec Sud: Basse Ville - Limoilou, Vanier - Duberger Citoyens - Vaccin COVID-19",
+                        "phone": "",
+                        "address": "2915, avenue du Bourg-Royal",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/60033"
+                },
+                {
+                        "id": 60034,
+                        "name": "CIUSSS de la Capitale-Nationale - RLS de Qu\u00e9bec-Nord: Loretteville, Charlesbourg  Citoyens - Vaccin COVID-19",
+                        "phone": "",
+                        "address": "2915, avenue du Bourg-Royal",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/60034"
+                },
+                {
+                        "id": 60035,
+                        "name": "CIUSSS de la Capitale-Nationale - RLS de Qu\u00e9bec-Nord: Beauport - Orl\u00e9ans  Citoyens - Vaccin COVID-19",
+                        "phone": "",
+                        "address": "2915, avenue du Bourg-Royal",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/60035"
+                },
+                {
+                        "id": 61005,
+                        "name": "Acc\u00e8s Pharma\/Wal-Mart - Pharmacie Alex Caron inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 656-9409",
+                        "address": "2700, BOUL. LAURIER #28, QUEBEC, G1V 2L8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61005"
+                },
+                {
+                        "id": 61010,
+                        "name": "Acc\u00e8s pharma chez Walmart - Pharmacie M\u00e9lissa B\u00e9land inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 834-3538",
+                        "address": "700, RUE DE LA CONCORDE, LEVIS, G6W 8A8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61010"
+                },
+                {
+                        "id": 61072,
+                        "name": "Acc\u00e8s Pharma\/Wal-Mart - Marie Eve Gagn\u00e9-Tremblay, ph- Vaccin MODERNA",
+                        "phone": "418 660-9101",
+                        "address": "224 Avenue Joseph Casavant, Qu\u00e9bec, QC G1C 7Z3, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61072"
+                },
+                {
+                        "id": 61501,
+                        "name": "Brunet - Pharmacie Anne Lafontaine inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 653-9226",
+                        "address": "2510, DES QUATRE-BOURGEOIS, QUEBEC, G1V 4R2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61501"
+                },
+                {
+                        "id": 61502,
+                        "name": "Brunet - Pharmacie Luc Fortier Pharmacien Inc - Vaccin COVID-19 Citoyen",
+                        "phone": "418 683-0889",
+                        "address": "2810, BOUL. P\u00c8RE-LELI\u00c8VRE, QUEBEC, G1P 2Y1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61502"
+                },
+                {
+                        "id": 61504,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Nancy Fortin, Paule Warren et Annie Gagn\u00e9 Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)623-1504",
+                        "address": "8500 Boulevard Henri-Bourassa, Qu\u00e9bec, QC G1G 5X1, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61504"
+                },
+                {
+                        "id": 61505,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 623-0961",
+                        "address": "1289, BOUL. LOUIS XIV, QUEBEC, G2L 1M1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61505"
+                },
+                {
+                        "id": 61509,
+                        "name": "Brunet - Nathalie Godbout pharmacienne Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 683-3434",
+                        "address": "303, BOUL. PIERRE-BERTRAND, STE 100, QUEBEC, G1M 3L7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61509"
+                },
+                {
+                        "id": 61510,
+                        "name": "Brunet - Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 524-0230",
+                        "address": "1019, AV. CARTIER, QUEBEC, G1R 2S3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61510"
+                },
+                {
+                        "id": 61514,
+                        "name": "MARTIN GUILBERT",
+                        "phone": "418 622-8030",
+                        "address": "725 lebourgneuf local 130",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61514"
+                },
+                {
+                        "id": 61515,
+                        "name": "Brunet - Pharmacie Gilles Fleury et Vincent Blanchet inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 529-5741",
+                        "address": "605, RUE SAINT-JOSEPH EST, QUEBEC, G1K 3C1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61515"
+                },
+                {
+                        "id": 61516,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Dominic Plante et France Rowley Inc. - Vaccin COVID-19 Citoyen ",
+                        "phone": "418 842-9221",
+                        "address": "9550, BOUL. DE L'ORMI\u00c8RE, QUEBEC, G2B 3Z6",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61516"
+                },
+                {
+                        "id": 61517,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Dominique Charest & Martin Guilbert Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "4186233522",
+                        "address": "5000, 3E AVENUE O., QUEBEC, G1H 6G3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61517"
+                },
+                {
+                        "id": 61522,
+                        "name": "Brunet - Pharmacie V\u00e9ronique Landry Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 822-0111",
+                        "address": "5110, AV. ROYALE, BOISCHATEL, G0A 1H0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61522"
+                },
+                {
+                        "id": 61573,
+                        "name": "Brunet Clinique - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 882-5858",
+                        "address": "107, DES PINSONS, SAINT-ISIDORE, G0S 2S0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61573"
+                },
+                {
+                        "id": 61587,
+                        "name": "Brunet Plus - Couture, Cormier et Fleury, Pharmaciens - Vaccin COVID-19 Citoyen",
+                        "phone": "418 847-3653",
+                        "address": "2425, BOUL. BASTIEN, QUEBEC, G2B 1B3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61587"
+                },
+                {
+                        "id": 61591,
+                        "name": "Brunet Plus - Pharmacie Gilles Fleury, \u00c9tienne Couture et M\u00e9lanie Plante inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)878-2635",
+                        "address": "110-334, , RTE 138, SAINT-AUGUSTIN-DE-DESMAURES, G3A 1G8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61591"
+                },
+                {
+                        "id": 61596,
+                        "name": "Brunet Plus - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 839-1441",
+                        "address": "880, AV. TANIATA LOCAL 104, LEVIS, G6Z 2E2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61596"
+                },
+                {
+                        "id": 61598,
+                        "name": "Brunet Plus - Jo\u00ebl Samson pharmacien inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 836-0070",
+                        "address": "1345, RTE DES RIVI\u00c8RES LOCAL 150, LEVIS, G7A 2V6",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61598"
+                },
+                {
+                        "id": 61625,
+                        "name": "Brunet Plus - Pharmacie Gilles Fleury et Marie-Jos\u00e9e Vohl (Charlesbourg) inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)623-1571",
+                        "address": "4250, 1\u00c8RE AVENUE, QUEBEC, G1H 2S5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/61625"
+                },
+                {
+                        "id": 62000,
+                        "name": "Costco SAINTE_FOY - Pharmacie Gr\u00e9goire Arakelian - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)577-3064",
+                        "address": "3233, RUE WATT, QUEBEC, G1X 4W2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62000"
+                },
+                {
+                        "id": 62001,
+                        "name": "Costco L\u00c9VIS - Pharmacie Gr\u00e9goire Arakelian - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)834-7110",
+                        "address": "1160, RUE DE LA CONCORDE, LEVIS, G6W 0M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62001"
+                },
+                {
+                        "id": 62002,
+                        "name": "Costco QU\u00c9BEC - Pharmacie Gregoire Arakelian - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)634-5777",
+                        "address": "440, RUE BOUVIER, QUEBEC, G2J 1E3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62002"
+                },
+                {
+                        "id": 62508,
+                        "name": "Familiprix - Pharmacie H\u00e9bert, Ferlatte, Pharmaciens Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 524-4547",
+                        "address": "745, 3E AVENUE, QUEBEC, G1L 2W7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62508"
+                },
+                {
+                        "id": 62514,
+                        "name": "Familiprix - Pharmacie Dominique Boivin inc - Vaccin COVID-19 Citoyen",
+                        "phone": "418 527-3451",
+                        "address": "1325 chemin Sainte-Foy",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62514"
+                },
+                {
+                        "id": 62519,
+                        "name": "Familiprix - Andr\u00e9 Villeneuve pharmacien inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 524-2471",
+                        "address": "241, SAINTE-FOY, QUEBEC, G1R 1T5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62519"
+                },
+                {
+                        "id": 62521,
+                        "name": "Familiprix - Christian Pag\u00e9 pharmacien inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)651-9115",
+                        "address": "2750, SAINTE-FOY, QUEBEC, G1V 1V6",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62521"
+                },
+                {
+                        "id": 62533,
+                        "name": "Familiprix - Pharmacie Christian Beaulieu et Caroline Tremblay Inc St-Michel-de-Bellechasse - Vaccin COVID-19 Citoyen",
+                        "phone": "418 884-3330",
+                        "address": "33, CTRE COMMUNAUTAIRE, SAINT-MICHEL-DE-BELLECHASSE, G0R 3S0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62533"
+                },
+                {
+                        "id": 62541,
+                        "name": "Familiprix - Pharmacie Chantal B\u00e9rub\u00e9 et G\u00e9rald Cloutier inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 831-7009",
+                        "address": "3100, RTE LAGUEUX LOCAL 2, LEVIS, G6J 1J9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62541"
+                },
+                {
+                        "id": 62542,
+                        "name": "Familiprix - Pharmacie Maude Smith-Bujold (St-R\u00e9dempteur) - MODERNA",
+                        "phone": "418 836-3434",
+                        "address": "190-2170, , RTE DES RIVI\u00c8RES, LEVIS, G6K 1A5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62542"
+                },
+                {
+                        "id": 62548,
+                        "name": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 835-5555",
+                        "address": "5555, SAINT-GEORGES, LEVIS, G6V 4M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62548"
+                },
+                {
+                        "id": 62549,
+                        "name": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 603-3333",
+                        "address": "142-1555, METIVIER, LEVIS, G6V 0R7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62549"
+                },
+                {
+                        "id": 62662,
+                        "name": "Familiprix Extra - Mathieu Labont\u00e9 pharmacien Inc - Vaccin COVID-19 Citoyen",
+                        "phone": "418 681-6351",
+                        "address": "2300, BOUL. P\u00c8RE LELI\u00c8VRE, QUEBEC, G1P 2X5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62662"
+                },
+                {
+                        "id": 62669,
+                        "name": "Familiprix Extra - Pharmacie Dani\u00e8le Ouellet - Vaccin COVID-19 Citoyen",
+                        "phone": "418 828-2215",
+                        "address": "1015, RTE PR\u00c9VOST, SAINT-PIERRE-ILE-D'ORLEANS, G0A 4E0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62669"
+                },
+                {
+                        "id": 62671,
+                        "name": "Familiprix-Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet(MAGURIE) - Vaccin COVID-19 Citoyen",
+                        "phone": "418 681-3525",
+                        "address": "1363, AV. MAGUIRE, QUEBEC, G1T 1Z2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62671"
+                },
+                {
+                        "id": 62672,
+                        "name": "Familiprix Extra - Pharmacie Kathleen Dion inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 824-4286",
+                        "address": "7, LAPLANTE, CHATEAU-RICHER, G0A 1N0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62672"
+                },
+                {
+                        "id": 62673,
+                        "name": "Familiprix Extra - Pharmacie Maxime Faguy et Mathieu Labont\u00e9 inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 667-1330",
+                        "address": "955, NORDIQUE, QUEBEC, G1C 7S8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62673"
+                },
+                {
+                        "id": 62674,
+                        "name": "Familiprix Extra - Pharmacie Marie-Christine Desmeules inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 872-2857",
+                        "address": "1372, SAINT-JACQUES, L'ANCIENNE-LORETTE, G2E 2X1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62674"
+                },
+                {
+                        "id": 62768,
+                        "name": "Familiprix- Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet (sheppard) - Vaccin COVID-19 Citoyen",
+                        "phone": "418 527-3434",
+                        "address": "1761, RUE SHEPPARD, QUEBEC, G1S 1K5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/62768"
+                },
+                {
+                        "id": 63008,
+                        "name": "Jean-Coutu - Claude Lachance, Pharmacien - Vaccin COVID-19 Citoyen",
+                        "phone": "418 622-1237",
+                        "address": "4197, 1RE AVENUE, QUEBEC, G1H 2S2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63008"
+                },
+                {
+                        "id": 63009,
+                        "name": "Jean Coutu - Pharmacies Jacques Raymond - MODERNA (ancienne clin. m\u00e9d. Courville)",
+                        "phone": "418 666-9688",
+                        "address": "1049, avenue Larue, Qu\u00e9bec, QC G1C 1J5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63009"
+                },
+                {
+                        "id": 63010,
+                        "name": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge - Vaccin COVID-19 Citoyen",
+                        "phone": "418 653-1333",
+                        "address": "999, DE BOURGOGNE (JEAN COUTU), QUEBEC, G1W 4S6",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63010"
+                },
+                {
+                        "id": 63011,
+                        "name": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge - Vaccin COVID-19 Citoyen",
+                        "phone": "418 659-3788",
+                        "address": "3280, CH. SAINTE-FOY, QUEBEC, G1X 1S1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63011"
+                },
+                {
+                        "id": 63016,
+                        "name": "Jean-Coutu - Pharmacie Katherine Harrison et Karen Ann O'Grady, S.E.N.C. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 522-5351",
+                        "address": "320, CH. DE LA CANARDI\u00c8RE, QUEBEC, G1L 2V2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63016"
+                },
+                {
+                        "id": 63017,
+                        "name": "Jean-Coutu - Pharmacie Danielle Fr\u00e9chette Inc. - Vaccin COVID-19 MODERNA",
+                        "phone": "418 872-2864",
+                        "address": "6385, WILFRID-HAMEL, L'ANCIENNE-LORETTE, G2E 5W2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63017"
+                },
+                {
+                        "id": 63022,
+                        "name": "Jean-Coutu - Pharmacie Dominique Bond - Vaccin COVID-19 Citoyen",
+                        "phone": "418 842-3648",
+                        "address": "2160, BOULEVARD BASTIEN, QUEBEC, G2B 1B7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63022"
+                },
+                {
+                        "id": 63027,
+                        "name": "Jean-Coutu - Pharmacie Marie-Claude Leli\u00e8vre - Vaccin COVID-19 Citoyen",
+                        "phone": "418 864-7755",
+                        "address": "1875, RUE NOTRE-DAME, LOCAL 50, L'ANCIENNE-LORETTE, G2E 4K1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63027"
+                },
+                {
+                        "id": 63028,
+                        "name": "Jean-Coutu - Pharmacie Christian Ouellet inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 667-7534",
+                        "address": "3333, RUE DU CARREFOUR LOCAL 119, QUEBEC, G1C 5R9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63028"
+                },
+                {
+                        "id": 63029,
+                        "name": "Jean-Coutu - Judith C\u00f4t\u00e9 B\u00e9langer et Mathilde Tremblay inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 687-2230",
+                        "address": "5, RUE MARIE-DE-L'INCARNATION, QUEBEC, G1M 3J4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63029"
+                },
+                {
+                        "id": 63030,
+                        "name": "Jean-Coutu - Pharmacie Dominique Bond et M\u00e9lissa Pilote inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 843-3191",
+                        "address": "2283, AV. CHAUVEAU, QUEBEC, G2C 0G7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63030"
+                },
+                {
+                        "id": 63034,
+                        "name": "Jean Coutu Maizerets - Pharmacie Martin Chouinard et St\u00e9phane Villeneuve inc.",
+                        "phone": "(418)661-2471",
+                        "address": "2090, Boulevard Sainte-Anne, Qu\u00e9bec, QC G1J 1X7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63034"
+                },
+                {
+                        "id": 63035,
+                        "name": "Jean-Coutu - Pharmacie M-A. Audet, M-P. Bernier Faucher et Marie-Mich\u00e8le Desfoss\u00e9s inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 840-0337",
+                        "address": "1065, RUE PIE XI N. STE 100, QUEBEC, G3K 2S5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63035"
+                },
+                {
+                        "id": 63045,
+                        "name": "Jean-Coutu - Potvin Marc, Pharmacie - Vaccin COVID-19 Citoyen",
+                        "phone": "418 838-4664",
+                        "address": "6605, BOUL. GUILLAUME-COUTURE, LEVIS, G6V 9H5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63045"
+                },
+                {
+                        "id": 63046,
+                        "name": "Jean-Coutu - Pharmacie Sylvain Arsenault Pharmacien Inc - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)839-2828",
+                        "address": "1018, DE LA PRAIRIE OUEST STE 101, LEVIS, G6Z 0A7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63046"
+                },
+                {
+                        "id": 63050,
+                        "name": "Jean-Coutu - Pharmacie Marie-Claude Raymond, pharmacienne Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 833-8980",
+                        "address": "4955, BOUL. GUILLAUME-COUTURE, LEVIS, G6V 4Z5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63050"
+                },
+                {
+                        "id": 63053,
+                        "name": "Jean-Coutu 456- Olivier Blouin pharmacien Inc. - Vaccin ***Moderna***",
+                        "phone": "418 834-5455",
+                        "address": "1190A, DE COURCHEVEL, SUITE 100, LEVIS, G6W 0M5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63053"
+                },
+                {
+                        "id": 63055,
+                        "name": "Jean-Coutu - Pharmacie Evelyne Gagn\u00e9",
+                        "phone": "418 838-9888",
+                        "address": "5475, boulevard Guillaume-Couture, L\u00e9vis, G6V 4Z1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63055"
+                },
+                {
+                        "id": 63056,
+                        "name": "Jean-Coutu - Pharmacie Fanny De Serres - Vaccin COVID-19 Citoyen",
+                        "phone": "418 837-5861",
+                        "address": "2-792, , RTE DU PR\u00c9SIDENT-KENNEDEY, LEVIS, G6C 1C8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63056"
+                },
+                {
+                        "id": 63057,
+                        "name": "Jean-Coutu - Genevi\u00e8ve Drouin pharmacienne Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 836-5051",
+                        "address": "1855, RTE DES RIVI\u00c8RES LOCAL 205, LEVIS, G7A 4X8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63057"
+                },
+                {
+                        "id": 63328,
+                        "name": "Jean-Coutu 134 - Pharmacie Olivier Blouin, pharmacien Inc. - Vaccin ***MODERNA***",
+                        "phone": "418 832-4449",
+                        "address": "3535, AV. DES EGLISES, LEVIS, G6X 1W8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63328"
+                },
+                {
+                        "id": 63507,
+                        "name": "Pharmaprix - Pharmacie Jean-Fran\u00e7ois Gaudet - Vaccin COVID-19 Citoyen",
+                        "phone": "418 847-0715",
+                        "address": "9397, BOUL. DE L'ORMI\u00c8RE, QUEBEC, G2B 3K7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63507"
+                },
+                {
+                        "id": 63508,
+                        "name": "Pharmaprix - Pharmacie Patrick Ouellet - Vaccin COVID-19 Citoyen",
+                        "phone": "418 661-8423",
+                        "address": "900, BOUL. RAYMOND, QUEBEC, G1B 3G3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63508"
+                },
+                {
+                        "id": 63509,
+                        "name": "Pharmaprix - Pharmacie Dauphin et Nguyen - Vaccin  MODERNA",
+                        "phone": "418 659-1000",
+                        "address": "2880 CH. DES QUATRE-BOURGEOIS, QUEBEC, G1V 4X7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63509"
+                },
+                {
+                        "id": 63510,
+                        "name": "Pharmaprix - Pharmacie Sylvie Arseneault - Vaccin COVID-19 Citoyen",
+                        "phone": "418 523-3000",
+                        "address": "2480, 1E AVENUE, QUEBEC, G1L 3N3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63510"
+                },
+                {
+                        "id": 63511,
+                        "name": "Pharmaprix - Pharmacie Julie Jean - Vaccin COVID-19 Citoyen - Moderna",
+                        "phone": "418 624-2010",
+                        "address": "4850, BOUL. HENRI-BOURASSA, LOCAL 100, QUEBEC, G1H 3A7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63511"
+                },
+                {
+                        "id": 63512,
+                        "name": "Pharmaprix - Pharmacie Patrick Ouellet - Vaccin COVID-19 Citoyen",
+                        "phone": "418 666-1410",
+                        "address": "1, GUYON, QUEBEC, G1B 1T1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63512"
+                },
+                {
+                        "id": 63514,
+                        "name": "Pharmaprix - Pharmacie Vicky Dubeau - Vaccin COVID-19 Citoyen",
+                        "phone": "418 529-2171",
+                        "address": "698, RUE SAINT-JEAN, QUEBEC, G1R 1P8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63514"
+                },
+                {
+                        "id": 63515,
+                        "name": "Pharmaprix - Pharmacie Martin Savard - Vaccin COVID-19 Citoyen",
+                        "phone": "418 661-7721",
+                        "address": "682, AV. ROYALE, QUEBEC, G1E 1Z2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63515"
+                },
+                {
+                        "id": 63517,
+                        "name": "Pharmaprix - Pharmacie Gabriel Gosselin - Vaccin COVID-19 Citoyen",
+                        "phone": "418 527-5220",
+                        "address": "835, RENE-LEVESQUE, QUEBEC, G1S 1T4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63517"
+                },
+                {
+                        "id": 63518,
+                        "name": "Pharmaprix - Pharmacie Chantal Bergeron et St\u00e9phanie B\u00e9rub\u00e9 - Vaccin COVID-19 Citoyen",
+                        "phone": "418 622-6622",
+                        "address": "11075, HENRI-BOURASSA, QUEBEC, G1G 3X8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/63518"
+                },
+                {
+                        "id": 64012,
+                        "name": "Proxim - Pharmacie Frederic Morin (Limoilou) Inc. - Vaccin COVID-19 MODERNA",
+                        "phone": "418 623-1474",
+                        "address": "2894, 1RE AVENUE, QUEBEC, G1L 3N9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64012"
+                },
+                {
+                        "id": 64014,
+                        "name": "Proxim - Pharmacie Fr\u00e9d\u00e9ric Morin (Lebourgneuf) inc. - Vaccin COVID-19 MODERNA",
+                        "phone": "418 915-5944",
+                        "address": "150-2500, BEAUREVOIR, QUEBEC, G2C 0M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64014"
+                },
+                {
+                        "id": 64015,
+                        "name": "Proxim - Nicolas B. De La Bru\u00e8re et Didier Legault, pharmaciens inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 842-6745",
+                        "address": "1514 Rue de la Faune, Qu\u00e9bec, QC G3E 1L2, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64015"
+                },
+                {
+                        "id": 64031,
+                        "name": "Proxim - Pierre-Luc Boivin pharmacien inc. - Vaccin COVID-19 - MODERNA",
+                        "phone": "418 837-3639",
+                        "address": "213, RUE SAINT-JOSEPH, LEVIS, G6V 1C8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64031"
+                },
+                {
+                        "id": 64511,
+                        "name": "Uniprix - Pharmacie Julie Michaud-Belzile, Inc. (Place Liray) - Vaccin COVID-19 Citoyen - Vaccin Moderna",
+                        "phone": "418 626-5383",
+                        "address": "14000 Boulevard Henri-Bourassa, Qu\u00e9bec, QC G1G 3Y8, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64511"
+                },
+                {
+                        "id": 64512,
+                        "name": "Uniprix - Pharmacie Philippe Drouin Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)529-2121",
+                        "address": "369, DE LA COURONNE, QUEBEC, G1K 6E9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64512"
+                },
+                {
+                        "id": 64514,
+                        "name": "Horizon Sant\u00e9 - Laurier Lavoie et J\u00e9r\u00f4me-Henri Lavoie, pharmaciens Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "4186613759",
+                        "address": "2485 Boulevard Sainte-Anne Qu\u00e9bec Qu\u00e9bec G1J 1Y4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64514"
+                },
+                {
+                        "id": 64518,
+                        "name": "Horizon Sant\u00e9 - Pharmacie Laurie-Eve Lavoie et J\u00e9r\u00f4me-Henri Lavoie Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 623-9811",
+                        "address": "7100, BOUL. HENRI-BOURASSA, QUEBEC, G1H 3E4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64518"
+                },
+                {
+                        "id": 64520,
+                        "name": "Uniprix - Pharmacie Anne-Marie Ratt\u00e9 inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418)977-6555",
+                        "address": "3417, 1ERE AVENUE, QUEBEC, G1L 3R4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64520"
+                },
+                {
+                        "id": 64521,
+                        "name": "Uniprix - Alexandre Ung et associ\u00e9, pharmaciens, S.E.N.C. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 849-2907",
+                        "address": "30-891, , RUE JACQUES-B\u00c9DARD, QUEBEC, G2N 1E1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64521"
+                },
+                {
+                        "id": 64525,
+                        "name": "Uniprix - Jean-S\u00e9bastien Lecompte et Anne-Sophie Roy, pharmaciens inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 915-5551",
+                        "address": "1830, AVE. INDUSTRIELLE, QUEBEC, G3K 1M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64525"
+                },
+                {
+                        "id": 64526,
+                        "name": "Uniprix - Pharmacie Sara Belmonte et Nicolas B. De la Bru\u00e8re Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 614-2554",
+                        "address": "1190, LOUIS-XIV350, QUEBEC, G1H 6P2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64526"
+                },
+                {
+                        "id": 64527,
+                        "name": "Uniprix - Pharmacie Didier Legault et Nicolas B. De La Bru\u00e8re Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 845-2111",
+                        "address": "4770, SAINTE-GENEVIEVE, QUEBEC, G2B 4P1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64527"
+                },
+                {
+                        "id": 64528,
+                        "name": "Uniprix - Pharmacie Nancy Champagne et Maude Hamel Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "418 523-1000",
+                        "address": "1000, 3E AVENUE, QUEBEC, G1L 2X4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64528"
+                },
+                {
+                        "id": 64537,
+                        "name": "Uniprix Lauzon - S. C\u00f4t\u00e9-Desjardins, M. Fiset, S. Parent et S. Trudel pharmaciens inc. - Vaccin MODERNA COVID-19 Citoyen",
+                        "phone": "418 835-6666",
+                        "address": "7777, GUILLAUME-COUTURE, LEVIS, G6V 6Z1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64537"
+                },
+                {
+                        "id": 64538,
+                        "name": "Uniprix - Marc-Andr\u00e9 Lemieux, pharmaciens Inc. - Vaccin COVID-19 Citoyen",
+                        "phone": "(418) 835 - 3300",
+                        "address": "40 Route du Pr\u00e9sident-Kennedy, L\u00e9vis, QC G6V 6C4, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64538"
+                },
+                {
+                        "id": 64545,
+                        "name": "Uniprix J\u00e9r\u00f4me Bergeron et Camille Dupuis-Brousseau - Vaccin Moderna",
+                        "phone": "418 839-8897",
+                        "address": "2280, GUILLAUME-COUTURE, LEVIS, G6W 2S1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/64545"
+                },
+                {
+                        "id": 65023,
+                        "name": "PROXIM - Pharmacie Fr\u00e9d\u00e9ric Morin (Bastien) Inc. - Vaccin COVID-19 MODERNA",
+                        "phone": "(581) 491 - 9191",
+                        "address": "1187 BOUL. BASTIEN",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/65023"
+                },
+                {
+                        "id": 70012,
+                        "name": "La salle des Chevaliers de Colombs - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1300, rue des loisirs Est, Qu\u00e9bec, G2E 3M9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/70012"
+                },
+                {
+                        "id": 70013,
+                        "name": "IUSMQ Pavillon Cervo - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "2601, chemin de la Canardi\u00e8re, Qu\u00e9bec, G1J 0A4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/70013"
+                },
+                {
+                        "id": 70051,
+                        "name": "Site de vacc. de l'Universit\u00e9 Laval - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "2325, rue de l'Universit\u00e9, Qu\u00e9bec, G1V 0A6",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/70051"
+                },
+                {
+                        "id": 70052,
+                        "name": "Site de vacc. de Centre de foire - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "250-A, boul. Wilfrid-Hamel, Qu\u00e9bec, G1L 1G4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/70052"
+                },
+                {
+                        "id": 70096,
+                        "name": "Centre de vaccination COVID Brigade Sant\u00e9 Publique - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "3755 Chemin de la C\u00f4te-Sainte-Catherine, 61, CIUSSS du Centre-Sud-de-l'\u00cele-de-Montr\u00e9al",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/70096"
+                },
+                {
+                        "id": 71010,
+                        "name": "Acc\u00e8s pharma chez Walmart - Pharmacie M\u00e9lissa B\u00e9land inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "418-834-3538",
+                        "address": "700, RUE DE LA CONCORDE, LEVIS, G6W 8A8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71010"
+                },
+                {
+                        "id": 71505,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1289, BOUL. LOUIS XIV, QUEBEC, G2L 1M1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71505"
+                },
+                {
+                        "id": 71510,
+                        "name": "Brunet - Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "418-524-0230",
+                        "address": "1019, AV. CARTIER, QUEBEC, G1R 2S3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71510"
+                },
+                {
+                        "id": 71513,
+                        "name": "Brunet - Pharmacie Gilles Fleury, Martin Cloutier et Dominique Carle Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "15094, BOUL. HENRI-BOURASSA, QUEBEC, G1G 3Z4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71513"
+                },
+                {
+                        "id": 71531,
+                        "name": "Pharmacie Catherine Sanche et Alain Plourde (St-\u00c9tienne) inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "3010, RTE LAGUEUX LOCAL1, LEVIS, G6J 1J9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71531"
+                },
+                {
+                        "id": 71573,
+                        "name": "Brunet Clinique - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "107, DES PINSONS, SAINT-ISIDORE, G0S 2S0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71573"
+                },
+                {
+                        "id": 71596,
+                        "name": "Brunet Plus - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "880, AV. TANIATA LOCAL 104, LEVIS, G6Z 2E2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/71596"
+                },
+                {
+                        "id": 72000,
+                        "name": "Costco SAINTE-FOY - Pharmacie Gr\u00e9goire Arakelian- Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "3233, RUE WATT, QUEBEC, G1X 4W2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72000"
+                },
+                {
+                        "id": 72001,
+                        "name": "Costco L\u00c9VIS - Pharmacie Gr\u00e9goire Arakelian - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1160, RUE DE LA CONCORDE, LEVIS, G6W 0M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72001"
+                },
+                {
+                        "id": 72002,
+                        "name": "Costco QU\u00c9BEC- Pharmacie Gr\u00e9goire Arakelian - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "440, RUE BOUVIER, QUEBEC, G2J 1E3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72002"
+                },
+                {
+                        "id": 72514,
+                        "name": "Familiprix - Pharmacie Dominique Boivin inc - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "4185273451",
+                        "address": "1325 Ch Ste-Foy, Qu\u00e9bec, QC G1S 2N2, Canada",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72514"
+                },
+                {
+                        "id": 72519,
+                        "name": "Familiprix - Andr\u00e9 Villeneuve pharmacien inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "241, SAINTE-FOY, QUEBEC, G1R 1T5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72519"
+                },
+                {
+                        "id": 72542,
+                        "name": "Familiprix - Pharmacie Maude Smith-Bujold (St-R\u00e9dempteur) - ASTRAZENECA",
+                        "phone": "4188363434",
+                        "address": "190-2170, , RTE DES RIVI\u00c8RES, LEVIS, G6K 1A5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72542"
+                },
+                {
+                        "id": 72548,
+                        "name": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "5555, SAINT-GEORGES, LEVIS, G6V 4M4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72548"
+                },
+                {
+                        "id": 72549,
+                        "name": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "142-1555, METIVIER, LEVIS, G6V 0R7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72549"
+                },
+                {
+                        "id": 72671,
+                        "name": "Familiprix Extra - Familiprix-Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet(MAGURIE) - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "418-681-3525",
+                        "address": "1363, AV. MAGUIRE, QUEBEC, G1T 1Z2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/72671"
+                },
+                {
+                        "id": 73017,
+                        "name": "Jean-Coutu - Pharmacie Danielle Fr\u00e9chette Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "6385, WILFRID-HAMEL, L'ANCIENNE-LORETTE, G2E 5W2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73017"
+                },
+                {
+                        "id": 73027,
+                        "name": "Jean-Coutu - Pharmacie Marie-Claude Leli\u00e8vre - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1875, RUE NOTRE-DAME, LOCAL 50, L'ANCIENNE-LORETTE, G2E 4K1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73027"
+                },
+                {
+                        "id": 73035,
+                        "name": "Pharmacie Marie-Andr\u00e9e Audet, Marie-Pier Bernier Faucher et Marie-Mich\u00e8le Desfoss\u00e9s inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1065, RUE PIE XI N. STE 100, QUEBEC, G3K 2S5",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73035"
+                },
+                {
+                        "id": 73056,
+                        "name": "Jean-Coutu - Pharmacie Fanny De Serres - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "418-837-5861",
+                        "address": "2-792, RTE DU PR\u00c9SIDENT-KENNEDEY, LEVIS, G6C 1C8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73056"
+                },
+                {
+                        "id": 73057,
+                        "name": "Genevi\u00e8ve Drouin pharmacienne Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1855, RTE DES RIVI\u00c8RES LOCAL 205, LEVIS, G7A 4X8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73057"
+                },
+                {
+                        "id": 73508,
+                        "name": "Pharmaprix - Pharmacie Patrick Ouellet  - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "900, BOUL. RAYMOND, QUEBEC, G1B 3G3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73508"
+                },
+                {
+                        "id": 73510,
+                        "name": "Pharmaprix - Pharmacie Sylvie Arseneault - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "2480, 1E AVENUE, QUEBEC, G1L 3N3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73510"
+                },
+                {
+                        "id": 73511,
+                        "name": "Pharmaprix - Pharmacie Julie Jean - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "4850, BOUL. HENRI-BOURASSA, LOCAL 100, QUEBEC, G1H 3A7",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73511"
+                },
+                {
+                        "id": 73512,
+                        "name": "Pharmaprix - Pharmacie Patrick Ouellet - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "1, GUYON, QUEBEC, G1B 1T1",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73512"
+                },
+                {
+                        "id": 73515,
+                        "name": "Pharmaprix - Pharmacie Martin Savard - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "682, AV. ROYALE, QUEBEC, G1E 1Z2",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73515"
+                },
+                {
+                        "id": 73519,
+                        "name": "Arnaldo Junior Santiago",
+                        "phone": "4186828635",
+                        "address": "995, Boulevard Wilfrid-Hamel",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/73519"
+                },
+                {
+                        "id": 74031,
+                        "name": "Proxim - Pierre-Luc Boivin pharmacien inc. - Vaccin COVID-19 - AstraZeneca",
+                        "phone": "418-837-3639",
+                        "address": "213, RUE SAINT-JOSEPH LEVIS G6V 1C8",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74031"
+                },
+                {
+                        "id": 74033,
+                        "name": "Proxim - Pharmacie M\u00e9lanie L\u00e9gar\u00e9 et Audrey Bellemare inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "701, DAVIE-ANDERSON, LEVIS, G6Z 7N3",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74033"
+                },
+                {
+                        "id": 74161,
+                        "name": "Proximed - Pharmacie Fr\u00e9d\u00e9ric Lahoud (Ave. Cartier) Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "4185222121",
+                        "address": "1149, AV. CARTIER, QUEBEC, G1R 2S9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74161"
+                },
+                {
+                        "id": 74523,
+                        "name": "Pharmacie Nicolas B. De LaBru\u00e8re Inc. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "102-1150, , BOUL. LEBOURGNEUF, QUEBEC, G2K 0A9",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74523"
+                },
+                {
+                        "id": 74734,
+                        "name": "Uniprix Sant\u00e9 - Pharmacie V\u00e9ronique Lambert et Patrick Allard Inc.. - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "2936, DE LA FAUNE BUR. 114, WENDAKE, G0A 4V0",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74734"
+                },
+                {
+                        "id": 74772,
+                        "name": "Daniel Vermette et J\u00e9r\u00f4me Bergeron, pharmaciens In - Vaccin COVID-19 Citoyen - AstraZeneca",
+                        "phone": "",
+                        "address": "3165, CH. SAINT-LOUIS, LOCAL 130, QUEBEC, G1W 4R4",
+                        "public_url": "https:\/\/clients3.clicsante.ca\/74772"
+                }
+        ],
+        "places": [
+                {
+                        "id": 1956,
+                        "establishment": 60032,
+                        "name_fr": "Universit\u00e9 Laval - Pavillon Alphonse-Desjardins",
+                        "name_en": "Universit\u00e9 Laval - Pavillon Alphonse-Desjardins",
+                        "formatted_address": "2325, rue de l'Universit\u00e9 Qu\u00e9bec G1V0A6 Canada",
+                        "latitude": 46.778942800000003,
+                        "longitude": -71.269479399999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 30,
+                                        "ta7": 6555
+                                }
+                        }
+                },
+                {
+                        "id": 1957,
+                        "establishment": 60033,
+                        "name_fr": "Centre de foires de Qu\u00e9bec (Entr\u00e9e A-B, stationnement P6, 250 boul. Wilfrid-Hamel)",
+                        "name_en": "Centre de foires de Qu\u00e9bec (Entr\u00e9e A-B, stationnement P6, 250 boul. Wilfrid-Hamel)",
+                        "formatted_address": "250-A, boulevard Wilfrid-Hamel Qu\u00e9bec G1L5A7 Canada",
+                        "latitude": 46.826634200000001,
+                        "longitude": -71.247364500000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 5520
+                                }
+                        }
+                },
+                {
+                        "id": 1959,
+                        "establishment": 60035,
+                        "name_fr": "Centre des loisirs Sainte-Anne",
+                        "name_en": "Centre des loisirs Sainte-Anne",
+                        "formatted_address": "10 000  Boul. Sainte-Anne-de-Beaupr\u00e9 Sainte-Anne-de-Beaupr\u00e9 G0A3C0 Canada",
+                        "latitude": 47.023875400000001,
+                        "longitude": -70.928762699999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3670,
+                        "establishment": 62768,
+                        "name_fr": "Familiprix- Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet (SHEPPARD)",
+                        "name_en": "Familiprix-Clinique - Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet inc",
+                        "formatted_address": "1761, RUE SHEPPARD QUEBEC G1S1K5 Canada",
+                        "latitude": 46.783654900000002,
+                        "longitude": -71.249759499999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3672,
+                        "establishment": 61005,
+                        "name_fr": "Acc\u00e8s Pharma\/Wal-Mart - Pharmacie Alex Caron inc.",
+                        "name_en": "Acc\u00e8s Pharma\/Wal-Mart - Pharmacie Alex Caron inc.",
+                        "formatted_address": "2700, BOUL. LAURIER #28, QUEBEC, G1V 2L8",
+                        "latitude": 46.7706734,
+                        "longitude": -71.284944199999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3688,
+                        "establishment": 61010,
+                        "name_fr": "Acc\u00e8s pharma chez Walmart - Pharmacie M\u00e9lissa B\u00e9land inc.",
+                        "name_en": "Acc\u00e8s pharma chez Walmart - Pharmacie M\u00e9lissa B\u00e9land inc.",
+                        "formatted_address": "700, RUE DE LA CONCORDE LEVIS G6W8A8 Canada",
+                        "latitude": 46.727286100000001,
+                        "longitude": -71.275346400000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3693,
+                        "establishment": 64014,
+                        "name_fr": "Proxim - Pharmacie Fr\u00e9d\u00e9ric Morin (Lebourgneuf) Inc. ***VACCIN MODERNA***",
+                        "name_en": "Proxim - Pharmacie Fr\u00e9d\u00e9ric Morin (Lebourgneuf) inc.",
+                        "formatted_address": "150-2500, BEAUREVOIR QUEBEC G2C0M4 Canada",
+                        "latitude": 46.8383441,
+                        "longitude": -71.320877300000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3698,
+                        "establishment": 64015,
+                        "name_fr": "Proxim - Nicolas B. De La Bru\u00e8re et Didier Legault, pharmaciens inc. ***VACCIN MODERNA***",
+                        "name_en": "Proxim - Nicolas B. De La Bru\u00e8re et Didier Legault, pharmaciens inc.",
+                        "formatted_address": "1514 Rue de la Faune Qu\u00e9bec G3E1L2 Canada",
+                        "latitude": 46.874728500000003,
+                        "longitude": -71.329848200000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3705,
+                        "establishment": 63050,
+                        "name_fr": "Jean-Coutu - Pharmacie Marie-Claude Raymond, pharmacienne Inc.",
+                        "name_en": "Jean-Coutu - Pharmacie Marie-Claude Raymond, pharmacienne Inc.",
+                        "formatted_address": "4955, BOUL. GUILLAUME-COUTURE LEVIS G6V4Z5 Canada",
+                        "latitude": 46.789566600000001,
+                        "longitude": -71.186103200000005,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3707,
+                        "establishment": 63008,
+                        "name_fr": "Jean-Coutu - Claude Lachance, Pharmacien",
+                        "name_en": "Jean-Coutu - Claude Lachance, Pharmacien",
+                        "formatted_address": "4197, 1RE AVENUE, QUEBEC, G1H 2S2",
+                        "latitude": 46.842092999999998,
+                        "longitude": -71.249582599999997,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3723,
+                        "establishment": 63010,
+                        "name_fr": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge",
+                        "name_en": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge",
+                        "formatted_address": "999, DE BOURGOGNE (JEAN COUTU), QUEBEC, G1W 4S6",
+                        "latitude": 46.764458099999999,
+                        "longitude": -71.308354600000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3741,
+                        "establishment": 63055,
+                        "name_fr": "Jean-Coutu - Pharmacie Evelyne Gagn\u00e9",
+                        "name_en": "Jean-Coutu - Pharmacie Evelyne Gagn\u00e9",
+                        "formatted_address": "5475, boulevard Guillaume-Couture L\u00e9vis G6V4Z1 Canada",
+                        "latitude": 46.794830300000001,
+                        "longitude": -71.178592699999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3748,
+                        "establishment": 63056,
+                        "name_fr": "Jean Coutu - Pharmacie Fanny De Serres - Moderna",
+                        "name_en": "Jean Coutu - Pharmacie Fanny De Serres",
+                        "formatted_address": "2-792, RTE DU PR\u00c9SIDENT-KENNEDEY LEVIS G6C1C8 Canada",
+                        "latitude": 46.755826599999999,
+                        "longitude": -71.123127199999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3763,
+                        "establishment": 63016,
+                        "name_fr": "Jean-Coutu - Pharmacie Katherine Harrison et Karen Ann O'Grady, S.E.N.C.",
+                        "name_en": "Jean-Coutu - Pharmacie Katherine Harrison et Karen Ann O'Grady, S.E.N.C.",
+                        "formatted_address": "320, CH. DE LA CANARDI\u00c8RE, QUEBEC, G1L 2V2",
+                        "latitude": 46.824415000000002,
+                        "longitude": -71.227044699999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3774,
+                        "establishment": 63017,
+                        "name_fr": "Jean-Coutu - Pharmacie Danielle Fr\u00e9chette Inc. (moderna)",
+                        "name_en": "Jean-Coutu - Pharmacie Danielle Fr\u00e9chette Inc.",
+                        "formatted_address": "6385, WILFRID-HAMEL L'ANCIENNE-LORETTE G2E5W2 Canada",
+                        "latitude": 46.793391200000002,
+                        "longitude": -71.351407800000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3798,
+                        "establishment": 64031,
+                        "name_fr": "Proxim - Pierre-Luc Boivin pharmacien inc.",
+                        "name_en": "Proxim - Pierre-Luc Boivin pharmacien inc.",
+                        "formatted_address": "213, RUE SAINT-JOSEPH LEVIS G6V1C8 Canada",
+                        "latitude": 46.8238506,
+                        "longitude": -71.168903700000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3815,
+                        "establishment": 63022,
+                        "name_fr": "Jean-Coutu - Dominique Bond ***VACCIN MODERNA***",
+                        "name_en": "Jean-Coutu - Dominique Bond ***VACCIN MODERNA***",
+                        "formatted_address": "2160, BOUL. BASTIEN QUEBEC G2B1B7 Canada",
+                        "latitude": 46.858601200000003,
+                        "longitude": -71.335949099999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 3867,
+                        "establishment": 63028,
+                        "name_fr": "Jean-Coutu - Pharmacie Christian Ouellet inc.",
+                        "name_en": "Jean-Coutu - Pharmacie Christian Ouellet inc.",
+                        "formatted_address": "3333, RUE DU CARREFOUR LOCAL 119 QUEBEC G1C5R9 Canada",
+                        "latitude": 46.860625400000004,
+                        "longitude": -71.217646999999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4406,
+                        "establishment": 60034,
+                        "name_fr": "H\u00f4tel de ville Stoneham-et-Tewkesbury",
+                        "name_en": "Stoneham-et-Tewkesbury City hall",
+                        "formatted_address": "325 chemin du Hibou Stoneham-et-Tewkesbury G3C1R8 Canada",
+                        "latitude": 46.999611199999997,
+                        "longitude": -71.368770499999997,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4428,
+                        "establishment": 65023,
+                        "name_fr": "PROXIM - Pharmacie Fr\u00e9d\u00e9ric Morin (Bastien) Inc. ***VACCIN MODERNA***",
+                        "name_en": "PROXIM - Pharmacie Fr\u00e9d\u00e9ric Morin (Bastien) Inc.",
+                        "formatted_address": "1187, BASTIEN QUEBEC G2K1E9 Canada",
+                        "latitude": 46.848533600000003,
+                        "longitude": -71.301839700000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4488,
+                        "establishment": 64545,
+                        "name_fr": "Uniprix - Pharmacie J\u00e9r\u00f4me Bergeron et Camille Dupuis-Brousseau inc.",
+                        "name_en": "Uniprix - Pharmacie J\u00e9r\u00f4me Bergeron et Camille Dupuis-Brousseau inc.",
+                        "formatted_address": "2280, GUILLAUME-COUTURE LEVIS G6W2S1 Canada",
+                        "latitude": 46.755147299999997,
+                        "longitude": -71.232293200000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4495,
+                        "establishment": 64538,
+                        "name_fr": "Uniprix - Marc-Andr\u00e9 Lemieux, pharmaciens Inc. **MODERNA**",
+                        "name_en": "Uniprix - Marc-Andr\u00e9 Lemieux, pharmaciens Inc.",
+                        "formatted_address": "40, route du Pr\u00e9sident-Kennedy, suite 101 L\u00e9vis G6V6C4 Canada",
+                        "latitude": 46.796936199999998,
+                        "longitude": -71.179575,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4496,
+                        "establishment": 64537,
+                        "name_fr": "Uniprix Lauzon - S. C\u00f4t\u00e9-Desjardins, M. Fiset, S. Parent et S. Trudel pharmaciens inc. ***MODERNA***",
+                        "name_en": "Uniprix Lauzon - S. C\u00f4t\u00e9-Desjardins, M. Fiset, S. Parent et S. Trudel pharmaciens inc. ***MODERNA***",
+                        "formatted_address": "7777, GUILLAUME-COUTURE LEVIS G6V6Z1 Canada",
+                        "latitude": 46.816482100000002,
+                        "longitude": -71.146569,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4503,
+                        "establishment": 64528,
+                        "name_fr": "Uniprix - Pharmacie Nancy Champagne et Maude Hamel Inc.",
+                        "name_en": "Uniprix - Pharmacie Nancy Champagne et Maude Hamel Inc.",
+                        "formatted_address": "1000, 3E AVENUE QUEBEC G1L2X4 Canada",
+                        "latitude": 46.826821099999997,
+                        "longitude": -71.2297473,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4504,
+                        "establishment": 64527,
+                        "name_fr": "Uniprix - Pharmacie Didier Legault et Nicolas B. De La Bru\u00e8re Inc. ***VACCIN MODERNA***",
+                        "name_en": "Uniprix - Pharmacie Didier Legault et Nicolas B. De La Bru\u00e8re Inc.",
+                        "formatted_address": "4770, SAINTE-GENEVIEVE QUEBEC G2B4P1 Canada",
+                        "latitude": 46.843894499999998,
+                        "longitude": -71.389832400000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4505,
+                        "establishment": 64526,
+                        "name_fr": "Uniprix - Pharmacie Sara Belmonte et Nicolas B. De la Bru\u00e8re Inc. ***VACCIN MODERNA***",
+                        "name_en": "Uniprix - Pharmacie Sara Belmonte et Nicolas B. De la Bru\u00e8re Inc.",
+                        "formatted_address": "1190, LOUIS-XIV350 QUEBEC G1H6P2 Canada",
+                        "latitude": 46.869980699999999,
+                        "longitude": -71.255963699999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4506,
+                        "establishment": 64525,
+                        "name_fr": "Uniprix - Jean-S\u00e9bastien Lecompte et Anne-Sophie Roy, pharmaciens inc. ** Vaccin Moderna**",
+                        "name_en": "Uniprix - Jean-S\u00e9bastien Lecompte et Anne-Sophie Roy, pharmaciens inc.",
+                        "formatted_address": "1830, AVE. INDUSTRIELLE QUEBEC G3K1M4 Canada",
+                        "latitude": 46.857938799999999,
+                        "longitude": -71.411441300000007,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4510,
+                        "establishment": 64521,
+                        "name_fr": "MODERNA - Uniprix Alexandre Ung et associ\u00e9",
+                        "name_en": "MODERNA - Uniprix Alexandre Ung et associ\u00e9",
+                        "formatted_address": "30-891, , RUE JACQUES-B\u00c9DARD QUEBEC G2N1E1 Canada",
+                        "latitude": 46.910197400000001,
+                        "longitude": -71.350857199999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4511,
+                        "establishment": 64520,
+                        "name_fr": "Uniprix - Pharmacie Anne-Marie Ratt\u00e9 inc.",
+                        "name_en": "Uniprix - Pharmacie Anne-Marie Ratt\u00e9 inc.",
+                        "formatted_address": "3417, 1ERE AVENUE QUEBEC G1L3R4 Canada",
+                        "latitude": 46.840694999999997,
+                        "longitude": -71.248269199999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4522,
+                        "establishment": 64518,
+                        "name_fr": "Horizon Sant\u00e9 - Pharmacie Laurie-Eve Lavoie et J\u00e9r\u00f4me-Henri Lavoie Inc.",
+                        "name_en": "Horizon Sant\u00e9 - Pharmacie Laurie-Eve Lavoie et J\u00e9r\u00f4me-Henri Lavoie Inc.",
+                        "formatted_address": "7100, BOUL. HENRI-BOURASSA QUEBEC G1H3E4 Canada",
+                        "latitude": 46.858196700000001,
+                        "longitude": -71.2622973,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4526,
+                        "establishment": 64514,
+                        "name_fr": "Horizon Sant\u00e9 - Laurier Lavoie et J\u00e9r\u00f4me-Henri Lavoie, pharmaciens Inc.",
+                        "name_en": "Horizon Sant\u00e9 - Laurier Lavoie et J\u00e9r\u00f4me-Henri Lavoie, pharmaciens Inc.",
+                        "formatted_address": "2485, BOUL. STE-ANNE QUEBEC G1J1Y4 Canada",
+                        "latitude": 46.845200699999999,
+                        "longitude": -71.216602600000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4528,
+                        "establishment": 64512,
+                        "name_fr": "Uniprix - Pharmacie Philippe Drouin Inc.",
+                        "name_en": "Uniprix - Pharmacie Philippe Drouin Inc.",
+                        "formatted_address": "369, DE LA COURONNE, QUEBEC, G1K 6E9",
+                        "latitude": 46.814725299999999,
+                        "longitude": -71.224826100000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4529,
+                        "establishment": 64511,
+                        "name_fr": "Uniprix - Pharmacie Julie Michaud-Belzile, Inc.",
+                        "name_en": "Uniprix - Pharmacie Julie Michaud-Belzile, Inc.",
+                        "formatted_address": "14000, BOUL. HENRI-BOURASSA, QUEBEC, G1G 3Y8",
+                        "latitude": 46.878774100000001,
+                        "longitude": -71.283612899999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 10
+                                }
+                        }
+                },
+                {
+                        "id": 4585,
+                        "establishment": 64012,
+                        "name_fr": "Proxim - Pharmacie Frederic Morin (Limoilou) Inc. ***VACCIN MODERNA***",
+                        "name_en": "Proxim - Pharmacie Frederic Morin (Limoilou) Inc. ***MODERNA***",
+                        "formatted_address": "2894, 1RE AVENUE QUEBEC G1L3N9 Canada",
+                        "latitude": 46.837502000000001,
+                        "longitude": -71.244395299999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4614,
+                        "establishment": 63518,
+                        "name_fr": "Pharmaprix - Pharmacie Chantal Bergeron et St\u00e9phanie B\u00e9rub\u00e9",
+                        "name_en": "Pharmaprix - Pharmacie Chantal Bergeron et St\u00e9phanie B\u00e9rub\u00e9",
+                        "formatted_address": "11075, HENRI-BOURASSA QUEBEC G1G3X8 Canada",
+                        "latitude": 46.872609699999998,
+                        "longitude": -71.280533599999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4615,
+                        "establishment": 63517,
+                        "name_fr": "Pharmaprix - Pharmacie Gabriel Gosselin",
+                        "name_en": "Pharmaprix - Pharmacie Gabriel Gosselin",
+                        "formatted_address": "835, RENE-LEVESQUE, QUEBEC, G1S 1T4",
+                        "latitude": 46.797279400000001,
+                        "longitude": -71.237979499999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4617,
+                        "establishment": 63515,
+                        "name_fr": "Pharmaprix - Pharmacie Martin Savard",
+                        "name_en": "Pharmaprix - Pharmacie Martin Savard",
+                        "formatted_address": "682, AV. ROYALE, QUEBEC, G1E 1Z2",
+                        "latitude": 46.8605357,
+                        "longitude": -71.189647300000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4618,
+                        "establishment": 63514,
+                        "name_fr": "Pharmaprix - Pharmacie Vicky Dubeau",
+                        "name_en": "Pharmaprix - Pharmacie Vicky Dubeau",
+                        "formatted_address": "698, RUE SAINT-JEAN QUEBEC G1R1P8 Canada",
+                        "latitude": 46.810682800000002,
+                        "longitude": -71.219119199999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4620,
+                        "establishment": 63512,
+                        "name_fr": "MODERNA - Pharmaprix - Pharmacie Patrick Ouellet",
+                        "name_en": "Pharmaprix - Pharmacie Patrick Ouellet",
+                        "formatted_address": "1, GUYON QUEBEC G1B1T1 Canada",
+                        "latitude": 46.892238599999999,
+                        "longitude": -71.212368499999997,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4621,
+                        "establishment": 63511,
+                        "name_fr": "Pharmaprix - Pharmacie Julie Jean - Moderna",
+                        "name_en": "Pharmaprix - Pharmacie Julie Jean",
+                        "formatted_address": "4850, BOUL. HENRI-BOURASSA, LOCAL 100 QUEBEC G1H3A7 Canada",
+                        "latitude": 46.850707,
+                        "longitude": -71.244683899999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4622,
+                        "establishment": 63510,
+                        "name_fr": "Pharmaprix - Pharmacie Sylvie Arseneault",
+                        "name_en": "Pharmaprix - Pharmacie Sylvie Arseneault",
+                        "formatted_address": "2480, 1E AVENUE, QUEBEC, G1L 3N3",
+                        "latitude": 46.834897099999999,
+                        "longitude": -71.241798000000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4623,
+                        "establishment": 63509,
+                        "name_fr": "Pharmaprix - Pharmacie Dauphin et Nguyen",
+                        "name_en": "Pharmaprix - Pharmacie Dauphin et Nguyen",
+                        "formatted_address": "2880 CH. DES QUATRE-BOURGEOIS, QUEBEC, G1V 4X7",
+                        "latitude": 46.774175399999997,
+                        "longitude": -71.300805800000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4624,
+                        "establishment": 63508,
+                        "name_fr": "MODERNA - Pharmaprix - Pharmacie Patrick Ouellet",
+                        "name_en": "Pharmaprix - Pharmacie Patrick Ouellet",
+                        "formatted_address": "900, BOUL. RAYMOND QUEBEC G1B3G3 Canada",
+                        "latitude": 46.899688099999999,
+                        "longitude": -71.190341000000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4625,
+                        "establishment": 63507,
+                        "name_fr": "Pharmaprix - Pharmacie Jean-Fran\u00e7ois Gaudet ***VACCIN MODERNA***",
+                        "name_en": "Pharmaprix - Pharmacie Jean-Fran\u00e7ois Gaudet ***MODERNA VACCINE***",
+                        "formatted_address": "9397, BOUL. DE L'ORMI\u00c8RE QUEBEC G2B3K7 Canada",
+                        "latitude": 46.834815499999998,
+                        "longitude": -71.355410599999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4636,
+                        "establishment": 63328,
+                        "name_fr": "Jean-Coutu 134 - Pharmacie Olivier Blouin, pharmacien Inc. ***MODERNA***",
+                        "name_en": "Jean-Coutu 134 - Pharmacie Olivier Blouin, pharmacien Inc. ***MODERNA***",
+                        "formatted_address": "3535, AV. DES EGLISES LEVIS G6X1W8 Canada",
+                        "latitude": 46.716090600000001,
+                        "longitude": -71.269469400000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4676,
+                        "establishment": 63053,
+                        "name_fr": "Jean-Coutu 456 - Olivier Blouin pharmacien Inc. ***MODERNA***",
+                        "name_en": "Jean-Coutu 134 - Olivier Blouin pharmacien Inc. ***MODERNA***",
+                        "formatted_address": "1190A, DE COURCHEVEL, SUITE 100 LEVIS G6W0M5 Canada",
+                        "latitude": 46.731755,
+                        "longitude": -71.262366299999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4678,
+                        "establishment": 63046,
+                        "name_fr": "Jean-Coutu - Pharmacie Sylvain Arsenault , ***MODERNA*** clinique au 2 eme \u00e9tage",
+                        "name_en": "Jean-Coutu -Pharmacie Sylvain Arsenault , ***MODERNA*** clinique au 2 eme \u00e9tage",
+                        "formatted_address": "1018, DE LA PRAIRIE OUEST ,2 eme \u00e9tage LEVIS (St-Jean Chrysostome) G6Z0A7 Canada",
+                        "latitude": 46.728956199999999,
+                        "longitude": -71.2081637,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4679,
+                        "establishment": 63045,
+                        "name_fr": "Jean-Coutu - Potvin Marc, Pharmacie",
+                        "name_en": "Jean-Coutu - Potvin Marc, Pharmacie",
+                        "formatted_address": "6605, BOUL. GUILLAUME-COUTURE, LEVIS, G6V 9H5",
+                        "latitude": 46.8070965,
+                        "longitude": -71.163833199999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4689,
+                        "establishment": 63035,
+                        "name_fr": "Jean-Coutu - Pharmacie M-A. Audet, M-P. Bernier Faucher et Marie-Mich\u00e8le Desfoss\u00e9s inc.",
+                        "name_en": "Jean-Coutu - Pharmacie M-A. Audet, M-P. Bernier Faucher et Marie-Mich\u00e8le Desfoss\u00e9s inc.",
+                        "formatted_address": "1065, RUE PIE XI N. STE 100 QUEBEC G3K2S5 Canada",
+                        "latitude": 46.855318199999999,
+                        "longitude": -71.4179855,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4690,
+                        "establishment": 63034,
+                        "name_fr": "Jean-Coutu - Pharmacie Martin Chouinard et St\u00e9phane Villeneuve inc.",
+                        "name_en": "Jean-Coutu - Pharmacie Martin Chouinard et St\u00e9phane Villeneuve inc.",
+                        "formatted_address": "2090, Boulevard Sainte-Anne Qu\u00e9bec G1J1X7 Canada",
+                        "latitude": 46.840134200000001,
+                        "longitude": -71.220349999999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4693,
+                        "establishment": 63030,
+                        "name_fr": "Jean-Coutu - Pharmacie Dominique Bond et M\u00e9lissa Pilote inc.",
+                        "name_en": "Jean-Coutu - Pharmacie Dominique Bond et M\u00e9lissa Pilote inc.",
+                        "formatted_address": "2283, AV. CHAUVEAU QUEBEC G2C0G7 Canada",
+                        "latitude": 46.841739599999997,
+                        "longitude": -71.325464299999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 10,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4694,
+                        "establishment": 63029,
+                        "name_fr": "Jean-Coutu - Judith C\u00f4t\u00e9 B\u00e9langer et Mathilde Tremblay inc.",
+                        "name_en": "Jean-Coutu - Judith C\u00f4t\u00e9 B\u00e9langer et Mathilde Tremblay inc.",
+                        "formatted_address": "5, RUE MARIE-DE-L'INCARNATION, QUEBEC, G1M 3J4",
+                        "latitude": 46.814354000000002,
+                        "longitude": -71.251396,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4695,
+                        "establishment": 63027,
+                        "name_fr": "Jean-Coutu - Pharmacie Marie-Claude Leli\u00e8vre",
+                        "name_en": "Jean-Coutu - Pharmacie Marie-Claude Leli\u00e8vre",
+                        "formatted_address": "1875, RUE NOTRE-DAME, LOCAL 50, L'ANCIENNE-LORETTE, G2E 4K1",
+                        "latitude": 46.809693899999999,
+                        "longitude": -71.367817099999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4755,
+                        "establishment": 62674,
+                        "name_fr": "Familiprix Extra - Pharmacie Marie-Christine Desmeules inc.",
+                        "name_en": "Familiprix Extra - Pharmacie Marie-Christine Desmeules inc.",
+                        "formatted_address": "1372, SAINT-JACQUES L'ANCIENNE-LORETTE G2E2X1 Canada",
+                        "latitude": 46.802202000000001,
+                        "longitude": -71.360556000000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4756,
+                        "establishment": 62673,
+                        "name_fr": "Familiprix Extra - Pharmacie Maxime Faguy et Mathieu Labont\u00e9 *Vaccin MODERNA*",
+                        "name_en": "Familiprix Extra - Pharmacie Maxime Faguy et Mathieu Labont\u00e9 *MODERNA Vaccine*",
+                        "formatted_address": "955, NORDIQUE QUEBEC G1C7S8 Canada",
+                        "latitude": 46.890621099999997,
+                        "longitude": -71.192239599999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4757,
+                        "establishment": 62672,
+                        "name_fr": "Familiprix Extra - Pharmacie Kathleen Dion inc.",
+                        "name_en": "Familiprix Extra - Pharmacie Kathleen Dion inc.",
+                        "formatted_address": "7, LAPLANTE CHATEAU-RICHER G0A1N0 Canada",
+                        "latitude": 46.9614233,
+                        "longitude": -71.031864200000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4758,
+                        "establishment": 62671,
+                        "name_fr": "Familiprix -Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet (MAGUIRE)",
+                        "name_en": "Familiprix Extra - Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet inc",
+                        "formatted_address": "1363, AV. MAGUIRE QUEBEC G1T1Z2 Canada",
+                        "latitude": 46.780622899999997,
+                        "longitude": -71.251441400000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4759,
+                        "establishment": 62669,
+                        "name_fr": "Familiprix Extra - Pharmacie Dani\u00e8le Ouellet -- Moderna --",
+                        "name_en": "Familiprix Extra - Pharmacie Dani\u00e8le Ouellet -- Moderna --",
+                        "formatted_address": "1015, RTE PR\u00c9VOST SAINT-PIERRE-ILE-D'ORLEANS G0A4E0 Canada",
+                        "latitude": 46.873899799999997,
+                        "longitude": -71.095924699999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4766,
+                        "establishment": 62662,
+                        "name_fr": "Familiprix Extra - Mathieu Labont\u00e9 pharmacien (Vaccin Moderna)",
+                        "name_en": "Familiprix Extra - Mathieu Labont\u00e9 pharmacien (Vaccin Moderna)",
+                        "formatted_address": "2300, BOUL. P\u00c8RE LELI\u00c8VRE QUEBEC G1P2X5 Canada",
+                        "latitude": 46.812171200000002,
+                        "longitude": -71.299380099999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4810,
+                        "establishment": 62549,
+                        "name_fr": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 Inc.",
+                        "name_en": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 Inc.",
+                        "formatted_address": "142-1555, METIVIER, LEVIS, G6V 0R7",
+                        "latitude": 46.791053699999999,
+                        "longitude": -71.163894600000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4811,
+                        "establishment": 62548,
+                        "name_fr": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 (Rue St Georges)",
+                        "name_en": "Familiprix - Pharmacie Pierre-Luc Dub\u00e9 (Rue St Georges)",
+                        "formatted_address": "5555, SAINT-GEORGES LEVIS G6V4M4 Canada",
+                        "latitude": 46.798926299999998,
+                        "longitude": -71.182645800000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4817,
+                        "establishment": 62542,
+                        "name_fr": "Familiprix - Pharmacie Maude Smith-Bujold (St-R\u00e9dempteur) - MODERNA",
+                        "name_en": "Familiprix - Pharmacy Maude Smith-Bujold (St-R\u00e9dempteur) - MODERNA",
+                        "formatted_address": "190-2170, , RTE DES RIVI\u00c8RES LEVIS G6K1A5 Canada",
+                        "latitude": 46.703932299999998,
+                        "longitude": -71.2857913,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4818,
+                        "establishment": 62541,
+                        "name_fr": "Familiprix - Pharmacie Chantal B\u00e9rub\u00e9 et G\u00e9rald Cloutier inc.",
+                        "name_en": "Familiprix - Pharmacie Chantal B\u00e9rub\u00e9 et G\u00e9rald Cloutier inc.",
+                        "formatted_address": "3100, RTE LAGUEUX LOCAL 2, LEVIS, G6J 1J9",
+                        "latitude": 46.650638999999998,
+                        "longitude": -71.309430899999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4825,
+                        "establishment": 62533,
+                        "name_fr": "Familiprix - Pharmacie Christian Beaulieu et caroline Tremblay Inc",
+                        "name_en": "Familiprix - Pharmacie Christian Beaulieu et Caroline Tremblay Inc",
+                        "formatted_address": "33, CTRE COMMUNAUTAIRE SAINT-MICHEL-DE-BELLECHASSE G0R3S0 Canada",
+                        "latitude": 46.874298500000002,
+                        "longitude": -70.907253999999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 10
+                                }
+                        }
+                },
+                {
+                        "id": 4837,
+                        "establishment": 62521,
+                        "name_fr": "Familiprix - Christian Pag\u00e9 pharmacien inc.",
+                        "name_en": "Familiprix - Christian Pag\u00e9 pharmacien inc.",
+                        "formatted_address": "2750 Chemin Ste-Foy #112 qu\u00e9bec G1V1V6 Canada",
+                        "latitude": 46.781133099999998,
+                        "longitude": -71.300999300000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4839,
+                        "establishment": 62519,
+                        "name_fr": "Familiprix - Andr\u00e9 Villeneuve pharmacien inc.  ***VACCIN MODERNA***",
+                        "name_en": "Familiprix - Andr\u00e9 Villeneuve pharmacien inc.",
+                        "formatted_address": "241, SAINTE-FOY QUEBEC G1R1T5 Canada",
+                        "latitude": 46.804531099999998,
+                        "longitude": -71.230524799999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 130,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4842,
+                        "establishment": 62514,
+                        "name_fr": "Familiprix - Pharmacie Dominique Boivin inc",
+                        "name_en": "Familiprix - Pharmacie Dominique Boivin inc",
+                        "formatted_address": "1325, CH. SAINTE-FOY QUEBEC G1S2N2 Canada",
+                        "latitude": 46.794693100000003,
+                        "longitude": -71.253791300000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4847,
+                        "establishment": 62508,
+                        "name_fr": "Familiprix - Pharmacie H\u00e9bert, Ferlatte, Pharmaciens Inc.",
+                        "name_en": "Familiprix - Pharmacie H\u00e9bert, Ferlatte, Pharmaciens Inc.",
+                        "formatted_address": "745, 3E AVENUE, QUEBEC, G1L 2W7",
+                        "latitude": 46.824753399999999,
+                        "longitude": -71.228485300000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4860,
+                        "establishment": 62002,
+                        "name_fr": "Costco - Pharmacie Gregoier Arakelian (Qu\u00e9bec) inc.",
+                        "name_en": "Costco - Pharmacie Gregoier Arakelian (Qu\u00e9bec) inc.",
+                        "formatted_address": "440, RUE BOUVIER, QUEBEC, G2J 1E3",
+                        "latitude": 46.839982999999997,
+                        "longitude": -71.269752400000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4861,
+                        "establishment": 62001,
+                        "name_fr": "Costco - Gr\u00e9goire Arakelian, pharmacien",
+                        "name_en": "Costco - Gr\u00e9goire Arakelian, pharmacien",
+                        "formatted_address": "1160, RUE DE LA CONCORDE, LEVIS, G6W 0M4",
+                        "latitude": 46.729886399999998,
+                        "longitude": -71.262069499999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4862,
+                        "establishment": 62000,
+                        "name_fr": "Costco - Gr\u00e9goire Arakelian, pharmacien",
+                        "name_en": "Costco - Gr\u00e9goire Arakelian, pharmacien",
+                        "formatted_address": "3233, RUE WATT, QUEBEC, G1X 4W2",
+                        "latitude": 46.780583700000001,
+                        "longitude": -71.3288084,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4870,
+                        "establishment": 61598,
+                        "name_fr": "Brunet Plus - Jo\u00ebl Samson pharmacien inc.",
+                        "name_en": "Brunet Plus - Jo\u00ebl Samson pharmacien inc.",
+                        "formatted_address": "1345, RTE DES RIVI\u00c8RES LOCAL 150 LEVIS G7A2V6 Canada",
+                        "latitude": 46.719516599999999,
+                        "longitude": -71.300132199999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4872,
+                        "establishment": 61596,
+                        "name_fr": "Brunet Plus - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc.",
+                        "name_en": "Brunet Plus - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc.",
+                        "formatted_address": "880, AV. TANIATA LOCAL 104 LEVIS G6Z2E2 Canada",
+                        "latitude": 46.725393799999999,
+                        "longitude": -71.203532100000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4876,
+                        "establishment": 61591,
+                        "name_fr": "Brunet Plus - Pharmacie Gilles Fleury, \u00c9tienne Couture et M\u00e9lanie Plante inc.",
+                        "name_en": "Brunet Plus - Pharmacie Gilles Fleury, \u00c9tienne Couture et M\u00e9lanie Plante inc.",
+                        "formatted_address": "110-334, , RTE 138, SAINT-AUGUSTIN-DE-DESMAURES, G3A 1G8",
+                        "latitude": 46.743777000000001,
+                        "longitude": -71.459509499999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4878,
+                        "establishment": 61587,
+                        "name_fr": "Brunet Plus - Couture, Cormier et Fleury, Phciens",
+                        "name_en": "Brunet Plus - Couture, Cormier et Fleury, Phciens",
+                        "formatted_address": "2425, BOUL. BASTIEN QUEBEC G2B1B3 Canada",
+                        "latitude": 46.856667000000002,
+                        "longitude": -71.339327600000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4882,
+                        "establishment": 61573,
+                        "name_fr": "Brunet Clinique - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc.",
+                        "name_en": "Brunet Clinique - Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc.",
+                        "formatted_address": "107, DES PINSONS SAINT-ISIDORE G0S2S0 Canada",
+                        "latitude": 46.5857484,
+                        "longitude": -71.091164899999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4904,
+                        "establishment": 61522,
+                        "name_fr": "Brunet - Pharmacie V\u00e9ronique Landry Inc.",
+                        "name_en": "Brunet - Pharmacie V\u00e9ronique Landry Inc.",
+                        "formatted_address": "5110, AV. ROYALE, BOISCHATEL, G0A 1H0",
+                        "latitude": 46.893912499999999,
+                        "longitude": -71.142965399999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4909,
+                        "establishment": 61517,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury, Dominique Charest & Martin Guilbert Inc.",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury, Dominique Charest & Martin Guilbert Inc.",
+                        "formatted_address": "5000, 3E AVENUE O., QUEBEC, G1H 6G3",
+                        "latitude": 46.845835999999998,
+                        "longitude": -71.257340099999993,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4910,
+                        "establishment": 61516,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury, Dominic Plante et France Rowley Inc. ***VACCIN MODERNA***",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury, Dominic Plante et France Rowley Inc. ***VACCIN MODERNA***",
+                        "formatted_address": "9550, BOUL. DE L'ORMI\u00c8RE QUEBEC G2B3Z6 Canada",
+                        "latitude": 46.837240100000002,
+                        "longitude": -71.356087500000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4911,
+                        "establishment": 61515,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury et Vincent Blanchet inc.",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury et Vincent Blanchet inc.",
+                        "formatted_address": "605, RUE SAINT-JOSEPH EST, QUEBEC, G1K 3C1",
+                        "latitude": 46.814904800000001,
+                        "longitude": -71.221541200000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4912,
+                        "establishment": 61514,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury, Dominique Charest et Martin Guilbert (Lebourgneuf) Inc.",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury, Dominique Charest et Martin Guilbert (Lebourgneuf) Inc.",
+                        "formatted_address": "725, LEBOURGNEUF130, QUEBEC, G2J 1C3",
+                        "latitude": 46.841874699999998,
+                        "longitude": -71.280010799999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4916,
+                        "establishment": 61510,
+                        "name_fr": "Brunet - Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - Moderna",
+                        "name_en": "Brunet - Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - Moderna",
+                        "formatted_address": "1019, AV. CARTIER QUEBEC G1R2S3 Canada",
+                        "latitude": 46.804256299999999,
+                        "longitude": -71.226053699999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4917,
+                        "establishment": 61509,
+                        "name_fr": "Brunet - Nathalie Godbout pharmacienne Inc.",
+                        "name_en": "Brunet - Nathalie Godbout pharmacienne Inc.",
+                        "formatted_address": "303, BOUL. PIERRE-BERTRAND, STE 100, QUEBEC, G1M 3L7",
+                        "latitude": 46.814164900000002,
+                        "longitude": -71.264160799999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4920,
+                        "establishment": 61505,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc.",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc.",
+                        "formatted_address": "1289, BOUL. LOUIS XIV, QUEBEC, G2L 1M1",
+                        "latitude": 46.875806400000002,
+                        "longitude": -71.251000899999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4921,
+                        "establishment": 61504,
+                        "name_fr": "Brunet - Pharmacie Gilles Fleury, Nancy Fortin, Paule Warren et Annie Gagn\u00e9 Inc.",
+                        "name_en": "Brunet - Pharmacie Gilles Fleury, Nancy Fortin, Paule Warren et Annie Gagn\u00e9 Inc.",
+                        "formatted_address": "8500, BOUL. HENRI-BOURASSA QUEBEC G1G5X1 Canada",
+                        "latitude": 46.865570699999999,
+                        "longitude": -71.270061900000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4923,
+                        "establishment": 61502,
+                        "name_fr": "Brunet - Pharmacie Luc Fortier Pharmacien Inc (VACCIN MODERNA)",
+                        "name_en": "Brunet - Pharmacie Luc Fortier Pharmacien Inc. (VACCIN MODERNA)",
+                        "formatted_address": "2810, BOUL. P\u00c8RE-LELI\u00c8VRE QUEBEC G1P2Y1 Canada",
+                        "latitude": 46.812911300000003,
+                        "longitude": -71.309559199999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4924,
+                        "establishment": 61501,
+                        "name_fr": "Brunet - Pharmacie Anne Lafontaine inc.",
+                        "name_en": "Brunet - Pharmacie Anne Lafontaine inc.",
+                        "formatted_address": "2510, DES QUATRE-BOURGEOIS, QUEBEC, G1V 4R2",
+                        "latitude": 46.783195200000002,
+                        "longitude": -71.287191000000007,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4956,
+                        "establishment": 63011,
+                        "name_fr": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge",
+                        "name_en": "Jean-Coutu - Pharmacie Gigu\u00e8re et Thivierge",
+                        "formatted_address": "3280, CH. SAINTE-FOY, QUEBEC, G1X 1S1",
+                        "latitude": 46.7710729,
+                        "longitude": -71.319504300000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 4960,
+                        "establishment": 63057,
+                        "name_fr": "Jean-Coutu - Genevi\u00e8ve Drouin pharmacienne Inc.",
+                        "name_en": "Jean-Coutu - Genevi\u00e8ve Drouin pharmacienne Inc.",
+                        "formatted_address": "1855, RTE DES RIVI\u00c8RES LOCAL 205, LEVIS, G7A 4X8",
+                        "latitude": 46.709500200000001,
+                        "longitude": -71.289844200000005,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5235,
+                        "establishment": 61625,
+                        "name_fr": "Brunet Plus - Pharmacie Gilles Fleury et Marie-Jos\u00e9e Vohl (Charlesbourg) inc.",
+                        "name_en": "Brunet Plus - Pharmacie Gilles Fleury et Marie-Jos\u00e9e Vohl (Charlesbourg) inc.",
+                        "formatted_address": "4250, 1\u00c8RE AVENUE QUEBEC G1H2S5 Canada",
+                        "latitude": 46.843644699999999,
+                        "longitude": -71.247309099999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5265,
+                        "establishment": 63009,
+                        "name_fr": "Jean Coutu - Pharmacies boul Louis-XIV\/ave Larue - MODERNA (ancienne clin. m\u00e9d. Courville)",
+                        "name_en": "Jean Coutu - Beauport (Louis-XIV\/Larue) - MODERNA vaccine",
+                        "formatted_address": "1049 AV LARUE QUEBEC G1C1J5 Canada",
+                        "latitude": 46.888346900000002,
+                        "longitude": -71.170536200000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5354,
+                        "establishment": 60035,
+                        "name_fr": "Logisport - \u00cele d'Orl\u00e9ans",
+                        "name_en": "Logisport - \u00cele d'Orl\u00e9ans",
+                        "formatted_address": "517 Route des Pr\u00eatres Saint-Pierre-Ile-D'Orl\u00e9ans G0A4E0 Canada",
+                        "latitude": 46.8881096,
+                        "longitude": -71.069338099999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5886,
+                        "establishment": 70012,
+                        "name_fr": "La salle des Chevaliers de Colombs - AstraZeneca",
+                        "name_en": "La salle des Chevaliers de Colombs - AstraZeneca",
+                        "formatted_address": "1300, rue des loisirs Est Qu\u00e9bec G2E3M9 Canada",
+                        "latitude": 46.807860300000002,
+                        "longitude": -71.362212400000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 28440,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5887,
+                        "establishment": 70013,
+                        "name_fr": "IUSMQ Pavillon Cervo - AstraZeneca",
+                        "name_en": "IUSMQ Pavillon Cervo - AstraZeneca",
+                        "formatted_address": "2301 avenue d'Estimauville Porte E-1 Qu\u00e9bec G1E1T2 Canada",
+                        "latitude": 46.8465293,
+                        "longitude": -71.216674499999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5945,
+                        "establishment": 70051,
+                        "name_fr": "Universit\u00e9 Laval - Pavillon Alphonse Desjardins - AstraZeneca",
+                        "name_en": "Universit\u00e9 Laval - Pavillon Alphonse Desjardins - AstraZeneca",
+                        "formatted_address": "2325, rue de l'Universit\u00e9 Qu\u00e9bec G1V0A6 Canada",
+                        "latitude": 46.778942800000003,
+                        "longitude": -71.269479399999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5946,
+                        "establishment": 70052,
+                        "name_fr": "Centre de foire - AstraZeneca - (Entr\u00e9e A-B, stationnement P6, 250 boul. Wilfrid-Hamel)",
+                        "name_en": "Centre de foire - AstraZeneca - (Entr\u00e9e A-B, stationnement P6, 250 boul. Wilfrid-Hamel)",
+                        "formatted_address": "250-A, boul. Wilfrid-Hamel Qu\u00e9bec G1L1G4 Canada",
+                        "latitude": 46.8307371,
+                        "longitude": -71.2466103,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 5974,
+                        "establishment": 73027,
+                        "name_fr": "Pharmacie Marie-Claude Leli\u00e8vre - AstraZeneca",
+                        "name_en": "Pharmacie Marie-Claude Leli\u00e8vre - AstraZeneca",
+                        "formatted_address": "1875, RUE NOTRE-DAME, LOCAL 50, L'ANCIENNE-LORETTE, G2E 4K1",
+                        "latitude": 46.809693899999999,
+                        "longitude": -71.367817099999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6012,
+                        "establishment": 72514,
+                        "name_fr": "Pharmacie Dominique Boivin inc - AstraZeneca",
+                        "name_en": "Pharmacie Dominique Boivin inc - AstraZeneca",
+                        "formatted_address": "1325, CH. SAINTE-FOY QUEBEC G1S2N2 Canada",
+                        "latitude": 46.794693100000003,
+                        "longitude": -71.253791300000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6016,
+                        "establishment": 72671,
+                        "name_fr": "Familiprix-Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet(MAGURIE) - AstraZeneca",
+                        "name_en": "Familiprix-Pharmacie Sylvie Champagne et St\u00e9fanie Ouellet(MAGURIE) - AstraZeneca",
+                        "formatted_address": "1363, AV. MAGUIRE QUEBEC G1T1Z2 Canada",
+                        "latitude": 46.780622899999997,
+                        "longitude": -71.251441400000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6027,
+                        "establishment": 72542,
+                        "name_fr": "Familiprix - Pharmacie Maude Smith-Bujold (St-R\u00e9dempteur) - ASTRAZENECA",
+                        "name_en": "Familiprix - Pharmacy Maude Smith-Bujold (St-R\u00e9dempteur) - ASTRAZENECA",
+                        "formatted_address": "190-2170, , RTE DES RIVI\u00c8RES LEVIS G6K1A5 Canada",
+                        "latitude": 46.703932299999998,
+                        "longitude": -71.2857913,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6037,
+                        "establishment": 72519,
+                        "name_fr": "Andr\u00e9 Villeneuve pharmacien inc. - AstraZeneca",
+                        "name_en": "Andr\u00e9 Villeneuve pharmacien inc. - AstraZeneca",
+                        "formatted_address": "241, SAINTE-FOY QUEBEC G1R1T5 Canada",
+                        "latitude": 46.804531099999998,
+                        "longitude": -71.230524799999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6042,
+                        "establishment": 72548,
+                        "name_fr": "Pharmacie Pierre-Luc Dub\u00e9 inc. - AstraZeneca",
+                        "name_en": "Pharmacie Pierre-Luc Dub\u00e9 inc. - AstraZeneca",
+                        "formatted_address": "5555, SAINT-GEORGES, LEVIS, G6V 4M4",
+                        "latitude": 46.798926299999998,
+                        "longitude": -71.182645800000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6048,
+                        "establishment": 72549,
+                        "name_fr": "Pharmacie Pierre-Luc Dub\u00e9 Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Pierre-Luc Dub\u00e9 Inc. - AstraZeneca",
+                        "formatted_address": "1555, METIVIER (ENTR\u00c9E SUR J-B MICHAUD, EN FACE DU CENTRE DES CONGR\u00c8S) LEVIS G6V0R7 Canada",
+                        "latitude": 46.7907449,
+                        "longitude": -71.163611799999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6073,
+                        "establishment": 73017,
+                        "name_fr": "Jean Coutu-Pharmacie Danielle Fr\u00e9chette Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Danielle Fr\u00e9chette Inc. - AstraZeneca",
+                        "formatted_address": "6385, WILFRID-HAMEL L'ANCIENNE-LORETTE G2E5W2 Canada",
+                        "latitude": 46.793391200000002,
+                        "longitude": -71.351407800000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6090,
+                        "establishment": 73056,
+                        "name_fr": "Pharmacie Fanny De Serres - AstraZeneca",
+                        "name_en": "Pharmacie Fanny De Serres - AstraZeneca",
+                        "formatted_address": "2-792, RTE DU PR\u00c9SIDENT-KENNEDEY LEVIS G6C1C8 Canada",
+                        "latitude": 46.755826599999999,
+                        "longitude": -71.123127199999999,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6137,
+                        "establishment": 74161,
+                        "name_fr": "Pharmacie Fr\u00e9d\u00e9ric Lahoud (Ave. Cartier) Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Fr\u00e9d\u00e9ric Lahoud (Ave. Cartier) Inc. - AstraZeneca",
+                        "formatted_address": "1149, AV. CARTIER QUEBEC G1R2S9 Canada",
+                        "latitude": 46.803137599999999,
+                        "longitude": -71.224945599999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6141,
+                        "establishment": 72000,
+                        "name_fr": "Gr\u00e9goire Arakelian, pharmacien - AstraZeneca",
+                        "name_en": "Gr\u00e9goire Arakelian, pharmacien - AstraZeneca",
+                        "formatted_address": "3233, RUE WATT, QUEBEC, G1X 4W2",
+                        "latitude": 46.780583700000001,
+                        "longitude": -71.3288084,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6152,
+                        "establishment": 72001,
+                        "name_fr": "Gr\u00e9goire Arakelian, pharmacien - AstraZeneca",
+                        "name_en": "Gr\u00e9goire Arakelian, pharmacien - AstraZeneca",
+                        "formatted_address": "1160, RUE DE LA CONCORDE, LEVIS, G6W 0M4",
+                        "latitude": 46.729886399999998,
+                        "longitude": -71.262069499999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6161,
+                        "establishment": 74031,
+                        "name_fr": "Pierre-Luc Boivin pharmacien inc. - AstraZeneca",
+                        "name_en": "Pierre-Luc Boivin pharmacien inc. - AstraZeneca",
+                        "formatted_address": "213, RUE SAINT-JOSEPH, LEVIS, G6V 1C8",
+                        "latitude": 46.8238506,
+                        "longitude": -71.168903700000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6165,
+                        "establishment": 74033,
+                        "name_fr": "Pharmacie M\u00e9lanie L\u00e9gar\u00e9 et Audrey Bellemare inc. - AstraZeneca",
+                        "name_en": "Pharmacie M\u00e9lanie L\u00e9gar\u00e9 et Audrey Bellemare inc. - AstraZeneca",
+                        "formatted_address": "701, DAVIE-ANDERSON LEVIS G6Z7N3 Canada",
+                        "latitude": 46.673487799999997,
+                        "longitude": -71.227391100000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6189,
+                        "establishment": 74734,
+                        "name_fr": "Pharmacie V\u00e9ronique Lambert et Patrick Allard Inc.. - AstraZeneca",
+                        "name_en": "Pharmacie V\u00e9ronique Lambert et Patrick Allard Inc.. - AstraZeneca",
+                        "formatted_address": "2936, DE LA FAUNE BUR. 114 WENDAKE G0A4V0 Canada",
+                        "latitude": 46.862027599999998,
+                        "longitude": -71.357005599999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6193,
+                        "establishment": 72002,
+                        "name_fr": "Pharmacie Gregoire Arakelian (Qu\u00e9bec) inc. - AstraZeneca",
+                        "name_en": "Pharmacie Gregoire Arakelian (Qu\u00e9bec) inc. - AstraZeneca",
+                        "formatted_address": "440, RUE BOUVIER, QUEBEC, G2J 1E3",
+                        "latitude": 46.839982999999997,
+                        "longitude": -71.269752400000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6219,
+                        "establishment": 71505,
+                        "name_fr": "Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc. - AstraZeneca",
+                        "name_en": "Pharmacie Gilles Fleury, Mathieu Lajoie et Richard Coulombe inc. - AstraZeneca",
+                        "formatted_address": "1289, BOUL. LOUIS XIV, QUEBEC, G2L 1M1",
+                        "latitude": 46.875806400000002,
+                        "longitude": -71.251000899999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6220,
+                        "establishment": 71596,
+                        "name_fr": "Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - AstraZeneca",
+                        "formatted_address": "880, AV. TANIATA LOCAL 104, LEVIS, G6Z 2E2",
+                        "latitude": 46.725393799999999,
+                        "longitude": -71.203532100000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6221,
+                        "establishment": 71573,
+                        "name_fr": "Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Guillaume Simard, Line Raymond et Diane Boucher Inc. - AstraZeneca",
+                        "formatted_address": "107, DES PINSONS SAINT-ISIDORE G0S2S0 Canada",
+                        "latitude": 46.5857484,
+                        "longitude": -71.091164899999995,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6222,
+                        "establishment": 71510,
+                        "name_fr": "Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - AstraZeneca",
+                        "name_en": "Pharmacie Gilles B\u00e9gin et Andr\u00e9e-Anne Gobeil inc. - AstraZeneca",
+                        "formatted_address": "1019, AV. CARTIER QUEBEC G1R2S3 Canada",
+                        "latitude": 46.804256299999999,
+                        "longitude": -71.226053699999994,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6228,
+                        "establishment": 71513,
+                        "name_fr": "Pharmacie Gilles Fleury, Martin Cloutier et Dominique Carle Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Gilles Fleury, Martin Cloutier et Dominique Carle Inc. - AstraZeneca",
+                        "formatted_address": "15094, BOUL. HENRI-BOURASSA, QUEBEC, G1G 3Z4",
+                        "latitude": 46.883393699999999,
+                        "longitude": -71.288898099999997,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6250,
+                        "establishment": 73508,
+                        "name_fr": "Pharmacie Patrick Ouellet  - AstraZeneca",
+                        "name_en": "Pharmacie Patrick Ouellet  - AstraZeneca",
+                        "formatted_address": "900, BOUL. RAYMOND, QUEBEC, G1B 3G3",
+                        "latitude": 46.899688099999999,
+                        "longitude": -71.190341000000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6251,
+                        "establishment": 73511,
+                        "name_fr": "Pharmacie Julie Jean - AstraZeneca",
+                        "name_en": "Pharmacie Julie Jean - AstraZeneca",
+                        "formatted_address": "4850, BOUL. HENRI-BOURASSA, LOCAL 100, QUEBEC, G1H 3A7",
+                        "latitude": 46.850707,
+                        "longitude": -71.244683899999998,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6253,
+                        "establishment": 73512,
+                        "name_fr": "Pharmacie Patrick Ouellet - AstraZeneca",
+                        "name_en": "Pharmacie Patrick Ouellet - AstraZeneca",
+                        "formatted_address": "1, GUYON, QUEBEC, G1B 1T1",
+                        "latitude": 46.892238599999999,
+                        "longitude": -71.212368499999997,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6267,
+                        "establishment": 73515,
+                        "name_fr": "Pharmacie Martin Savard - AstraZeneca",
+                        "name_en": "Pharmacie Martin Savard - AstraZeneca",
+                        "formatted_address": "682, AV. ROYALE, QUEBEC, G1E 1Z2",
+                        "latitude": 46.8605357,
+                        "longitude": -71.189647300000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6278,
+                        "establishment": 73510,
+                        "name_fr": "Pharmacie Sylvie Arseneault - AstraZeneca",
+                        "name_en": "Pharmacie Sylvie Arseneault - AstraZeneca",
+                        "formatted_address": "2480, 1E AVENUE, QUEBEC, G1L 3N3",
+                        "latitude": 46.834897099999999,
+                        "longitude": -71.241798000000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6281,
+                        "establishment": 73519,
+                        "name_fr": "Pharmacie Arnaldo Junior Santiago - AstraZeneca",
+                        "name_en": "Pharmacie Arnaldo Junior Santiago - AstraZeneca",
+                        "formatted_address": "995, WILFRID-HAMEL, QUEBEC, G1M 2R7",
+                        "latitude": 46.809480899999997,
+                        "longitude": -71.258465799999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6333,
+                        "establishment": 74772,
+                        "name_fr": "Daniel Vermette et J\u00e9r\u00f4me Bergeron, pharmaciens In - AstraZeneca",
+                        "name_en": "Daniel Vermette et J\u00e9r\u00f4me Bergeron, pharmaciens In - AstraZeneca",
+                        "formatted_address": "3165, CH. SAINT-LOUIS, LOCAL 150 QUEBEC G1W4R4 Canada",
+                        "latitude": 46.756277099999998,
+                        "longitude": -71.294883400000003,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6342,
+                        "establishment": 71010,
+                        "name_fr": "Acc\u00e8s pharma chez Walmart - Pharmacie M\u00e9lissa B\u00e9land inc. - AstraZeneca",
+                        "name_en": "Pharmacie M\u00e9lissa B\u00e9land inc. - AstraZeneca",
+                        "formatted_address": "700, RUE DE LA CONCORDE LEVIS G6W8A8 Canada",
+                        "latitude": 46.727286100000001,
+                        "longitude": -71.275346400000004,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6354,
+                        "establishment": 71531,
+                        "name_fr": "Pharmacie Catherine Sanche et Alain Plourde (St-\u00c9tienne) inc. - AstraZeneca",
+                        "name_en": "Pharmacie Catherine Sanche et Alain Plourde (St-\u00c9tienne) inc. - AstraZeneca",
+                        "formatted_address": "3010, RTE LAGUEUX LOCAL1, LEVIS, G6J 1J9",
+                        "latitude": 46.653204700000003,
+                        "longitude": -71.314025400000006,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6365,
+                        "establishment": 74523,
+                        "name_fr": "Pharmacie Nicolas B. De LaBru\u00e8re Inc. - AstraZeneca",
+                        "name_en": "Pharmacie Nicolas B. De LaBru\u00e8re Inc. - AstraZeneca",
+                        "formatted_address": "102-1150, , BOUL. LEBOURGNEUF, QUEBEC, G2K 0A9",
+                        "latitude": 46.836729400000003,
+                        "longitude": -71.291651000000002,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6370,
+                        "establishment": 73057,
+                        "name_fr": "Genevi\u00e8ve Drouin pharmacienne Inc. - AstraZeneca",
+                        "name_en": "Genevi\u00e8ve Drouin pharmacienne Inc. - AstraZeneca",
+                        "formatted_address": "1855, RTE DES RIVI\u00c8RES LOCAL 205, LEVIS, G7A 4X8",
+                        "latitude": 46.709500200000001,
+                        "longitude": -71.289844200000005,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6413,
+                        "establishment": 61072,
+                        "name_fr": "Acc\u00e8s Pharma\/Wal-Mart - Marie \u00c8ve Gagn\u00e9-Tremblay, pharmacienne",
+                        "name_en": "Acc\u00e8s Pharma\/Wal-Mart - Marie \u00c8ve Gagn\u00e9-Tremblay, pharmacienne",
+                        "formatted_address": "224 Avenue Joseph Casavant Qu\u00e9bec G1C7Z3 Canada",
+                        "latitude": 46.872410799999997,
+                        "longitude": -71.204848999999996,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                },
+                {
+                        "id": 6439,
+                        "establishment": 70096,
+                        "name_fr": "AstraZeneca-YMCA Centre-Ville",
+                        "name_en": "AstraZeneca-YMCA Centre-Ville",
+                        "formatted_address": "1400 rue Stanley Montr\u00e9al H3A1P7 Canada",
+                        "latitude": 45.499289099999999,
+                        "longitude": -73.574056200000001,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 1260,
+                                        "ta7": 600
+                                }
+                        }
+                },
+                {
+                        "id": 6477,
+                        "establishment": 73035,
+                        "name_fr": "Jean Coutu - Pharmacie M-A. Audet, M-P Bernier Faucher et M-M. Desfoss\u00e9s inc",
+                        "name_en": "Jean Coutu - Pharmacie M-A. Audet, M-P Bernier Faucher et M-M. Desfoss\u00e9s inc",
+                        "formatted_address": "1065 blvd. Pie-Xi Nord, suite 100 Qu\u00e9bec G3K2S5 Canada",
+                        "latitude": 46.855318199999999,
+                        "longitude": -71.4179855,
+                        "is_virtual": 0,
+                        "availabilities": {
+                                "su237": {
+                                        "t07": 0,
+                                        "ta7": 0
+                                }
+                        }
+                }
+        ],
+        "distanceByPlaces": {
+                "1956": 7,
+                "1957": 5,
+                "4406": 25,
+                "1959": 32,
+                "5354": 14,
+                "3672": 8,
+                "3688": 11,
+                "6413": 7,
+                "4924": 8,
+                "4923": 9,
+                "4921": 9,
+                "4920": 9,
+                "4917": 5,
+                "4916": 3,
+                "4912": 8,
+                "4911": 2,
+                "4910": 13,
+                "4909": 6,
+                "4904": 11,
+                "4882": 27,
+                "4878": 12,
+                "4876": 22,
+                "4872": 10,
+                "4870": 13,
+                "5235": 6,
+                "4862": 11,
+                "4861": 11,
+                "4860": 7,
+                "4847": 3,
+                "4842": 5,
+                "4839": 3,
+                "4837": 9,
+                "4825": 24,
+                "4818": 20,
+                "4817": 14,
+                "4811": 2,
+                "4810": 4,
+                "4766": 8,
+                "4759": 11,
+                "4758": 6,
+                "4757": 22,
+                "4756": 9,
+                "4755": 13,
+                "3670": 5,
+                "3707": 6,
+                "5265": 9,
+                "3723": 10,
+                "4956": 11,
+                "3763": 3,
+                "3774": 12,
+                "3815": 12,
+                "4695": 13,
+                "3867": 6,
+                "4694": 4,
+                "4693": 11,
+                "4690": 4,
+                "4689": 18,
+                "4679": 3,
+                "4678": 10,
+                "3705": 3,
+                "4676": 10,
+                "3741": 3,
+                "3748": 9,
+                "4960": 14,
+                "4636": 12,
+                "4625": 13,
+                "4624": 10,
+                "4623": 9,
+                "4622": 5,
+                "4621": 6,
+                "4620": 10,
+                "4618": 2,
+                "4617": 6,
+                "4615": 4,
+                "4614": 10,
+                "4585": 5,
+                "3693": 10,
+                "3698": 13,
+                "3798": 3,
+                "4529": 10,
+                "4528": 2,
+                "4526": 5,
+                "4522": 8,
+                "4511": 6,
+                "4510": 16,
+                "4506": 17,
+                "4505": 8,
+                "4504": 15,
+                "4503": 3,
+                "4496": 5,
+                "4495": 3,
+                "4488": 7,
+                "4428": 9,
+                "5886": 13,
+                "5887": 5,
+                "5945": 7,
+                "5946": 5,
+                "6439": 234,
+                "6342": 11,
+                "6219": 9,
+                "6222": 3,
+                "6228": 11,
+                "6354": 20,
+                "6221": 27,
+                "6220": 10,
+                "6141": 11,
+                "6152": 11,
+                "6193": 7,
+                "6012": 5,
+                "6037": 3,
+                "6027": 14,
+                "6042": 2,
+                "6048": 4,
+                "6016": 6,
+                "6073": 12,
+                "5974": 13,
+                "6477": 18,
+                "6090": 9,
+                "6370": 14,
+                "6250": 10,
+                "6278": 5,
+                "6251": 6,
+                "6253": 10,
+                "6267": 6,
+                "6281": 5,
+                "6161": 3,
+                "6165": 16,
+                "6137": 3,
+                "6365": 8,
+                "6189": 14,
+                "6333": 10
+        },
+        "serviceIdsByPlaces": {
+                "1956": [
+                        2458,
+                        2459
+                ],
+                "1957": [
+                        2460,
+                        2461
+                ],
+                "4406": [
+                        2462,
+                        2463
+                ],
+                "1959": [
+                        2464,
+                        2465
+                ],
+                "5354": [
+                        2464,
+                        2465
+                ],
+                "3672": [
+                        3620,
+                        3621
+                ],
+                "3688": [
+                        3652,
+                        3653
+                ],
+                "6413": [
+                        7150,
+                        7151
+                ],
+                "4924": [
+                        6033,
+                        6034
+                ],
+                "4923": [
+                        6031,
+                        6032
+                ],
+                "4921": [
+                        6027,
+                        6028
+                ],
+                "4920": [
+                        6025,
+                        6026
+                ],
+                "4917": [
+                        6019,
+                        6020
+                ],
+                "4916": [
+                        6017,
+                        6018
+                ],
+                "4912": [
+                        6009,
+                        6010
+                ],
+                "4911": [
+                        6007,
+                        6008
+                ],
+                "4910": [
+                        6005,
+                        6006
+                ],
+                "4909": [
+                        6059,
+                        6060
+                ],
+                "4904": [
+                        5993,
+                        5994
+                ],
+                "4882": [
+                        5949,
+                        5950
+                ],
+                "4878": [
+                        5941,
+                        5942
+                ],
+                "4876": [
+                        5937,
+                        5938
+                ],
+                "4872": [
+                        5929,
+                        5930
+                ],
+                "4870": [
+                        5925,
+                        5926
+                ],
+                "5235": [
+                        6127,
+                        6128
+                ],
+                "4862": [
+                        5909,
+                        5910
+                ],
+                "4861": [
+                        5907,
+                        5908
+                ],
+                "4860": [
+                        5905,
+                        5906
+                ],
+                "4847": [
+                        5879,
+                        5880
+                ],
+                "4842": [
+                        5869,
+                        5870
+                ],
+                "4839": [
+                        5863,
+                        5864
+                ],
+                "4837": [
+                        5859,
+                        5860
+                ],
+                "4825": [
+                        5835,
+                        5836
+                ],
+                "4818": [
+                        5821,
+                        5822
+                ],
+                "4817": [
+                        5819,
+                        5820
+                ],
+                "4811": [
+                        5807,
+                        5808
+                ],
+                "4810": [
+                        5805,
+                        5806
+                ],
+                "4766": [
+                        5717,
+                        5718
+                ],
+                "4759": [
+                        5703,
+                        5704
+                ],
+                "4758": [
+                        5701,
+                        5702
+                ],
+                "4757": [
+                        5699,
+                        5700
+                ],
+                "4756": [
+                        5697,
+                        5698
+                ],
+                "4755": [
+                        5695,
+                        5696
+                ],
+                "3670": [
+                        3614,
+                        3615
+                ],
+                "3707": [
+                        3690,
+                        3691
+                ],
+                "5265": [
+                        3702,
+                        3703
+                ],
+                "3723": [
+                        3720,
+                        3721
+                ],
+                "4956": [
+                        6083,
+                        6084
+                ],
+                "3763": [
+                        3798,
+                        3799
+                ],
+                "3774": [
+                        3816,
+                        3817
+                ],
+                "3815": [
+                        3894,
+                        3895
+                ],
+                "4695": [
+                        5575,
+                        5576
+                ],
+                "3867": [
+                        4004,
+                        4005
+                ],
+                "4694": [
+                        5573,
+                        5574
+                ],
+                "4693": [
+                        5571,
+                        5572
+                ],
+                "4690": [
+                        5565,
+                        5566
+                ],
+                "4689": [
+                        5563,
+                        5564
+                ],
+                "4679": [
+                        5543,
+                        5544
+                ],
+                "4678": [
+                        5541,
+                        5542
+                ],
+                "3705": [
+                        3686,
+                        3687
+                ],
+                "4676": [
+                        5537,
+                        5538
+                ],
+                "3741": [
+                        3754,
+                        3755
+                ],
+                "3748": [
+                        3767,
+                        3769
+                ],
+                "4960": [
+                        6089,
+                        6090
+                ],
+                "4636": [
+                        5457,
+                        5458
+                ],
+                "4625": [
+                        5435,
+                        5436
+                ],
+                "4624": [
+                        5433,
+                        5434
+                ],
+                "4623": [
+                        5431,
+                        5432
+                ],
+                "4622": [
+                        5429,
+                        5430
+                ],
+                "4621": [
+                        5427,
+                        5428
+                ],
+                "4620": [
+                        5425,
+                        5426
+                ],
+                "4618": [
+                        5421,
+                        5422
+                ],
+                "4617": [
+                        5419,
+                        5420
+                ],
+                "4615": [
+                        5415,
+                        5416
+                ],
+                "4614": [
+                        5413,
+                        5414
+                ],
+                "4585": [
+                        5355,
+                        5356
+                ],
+                "3693": [
+                        3662,
+                        3663
+                ],
+                "3698": [
+                        3672,
+                        3673
+                ],
+                "3798": [
+                        3866,
+                        3867
+                ],
+                "4529": [
+                        5245,
+                        5246
+                ],
+                "4528": [
+                        5243,
+                        5244
+                ],
+                "4526": [
+                        5239,
+                        5240
+                ],
+                "4522": [
+                        5231,
+                        5232
+                ],
+                "4511": [
+                        5227,
+                        5228
+                ],
+                "4510": [
+                        5225,
+                        5226
+                ],
+                "4506": [
+                        5217,
+                        5218
+                ],
+                "4505": [
+                        5215,
+                        5216
+                ],
+                "4504": [
+                        5213,
+                        5214
+                ],
+                "4503": [
+                        5211,
+                        5212
+                ],
+                "4496": [
+                        5197,
+                        5198
+                ],
+                "4495": [
+                        5195,
+                        5196
+                ],
+                "4488": [
+                        5181,
+                        5182
+                ],
+                "4428": [
+                        5037,
+                        5038
+                ],
+                "5886": [
+                        6245,
+                        6246
+                ],
+                "5887": [
+                        6247,
+                        6248
+                ],
+                "5945": [
+                        6329,
+                        6330
+                ],
+                "5946": [
+                        6331,
+                        6332
+                ],
+                "6439": [
+                        7154,
+                        7155
+                ],
+                "6342": [
+                        7057,
+                        7058
+                ],
+                "6219": [
+                        6877,
+                        6878
+                ],
+                "6222": [
+                        6883,
+                        6884
+                ],
+                "6228": [
+                        6895,
+                        6896
+                ],
+                "6354": [
+                        7081,
+                        7082
+                ],
+                "6221": [
+                        6881,
+                        6882
+                ],
+                "6220": [
+                        6879,
+                        6880
+                ],
+                "6141": [
+                        6721,
+                        6722
+                ],
+                "6152": [
+                        6743,
+                        6744
+                ],
+                "6193": [
+                        6825,
+                        6826
+                ],
+                "6012": [
+                        6463,
+                        6464
+                ],
+                "6037": [
+                        6513,
+                        6514
+                ],
+                "6027": [
+                        6493,
+                        6494
+                ],
+                "6042": [
+                        6523,
+                        6524
+                ],
+                "6048": [
+                        6535,
+                        6536
+                ],
+                "6016": [
+                        6471,
+                        6472
+                ],
+                "6073": [
+                        6585,
+                        6586
+                ],
+                "5974": [
+                        6387,
+                        6388
+                ],
+                "6477": [
+                        7091,
+                        7092
+                ],
+                "6090": [
+                        6619,
+                        6620
+                ],
+                "6370": [
+                        7111,
+                        7112
+                ],
+                "6250": [
+                        6933,
+                        6934
+                ],
+                "6278": [
+                        6987,
+                        6988
+                ],
+                "6251": [
+                        6935,
+                        6936
+                ],
+                "6253": [
+                        6939,
+                        6940
+                ],
+                "6267": [
+                        6967,
+                        6968
+                ],
+                "6281": [
+                        6993,
+                        6994
+                ],
+                "6161": [
+                        6761,
+                        6762
+                ],
+                "6165": [
+                        6769,
+                        6770
+                ],
+                "6137": [
+                        6713,
+                        6714
+                ],
+                "6365": [
+                        7105,
+                        7106
+                ],
+                "6189": [
+                        6817,
+                        6818
+                ],
+                "6333": [
+                        7041,
+                        7042
+                ]
+        }
+}

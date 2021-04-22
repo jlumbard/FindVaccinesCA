@@ -62,7 +62,6 @@ def getAllLocations():
     print(mycol.find())
     return mycol.find()
 
-
 def getAllLatLong():
     mydb = getDB()
     mycol = mydb["latLongCombo"]
@@ -86,3 +85,17 @@ def dropDupsAppointments():
     mydb = getDB()
     mycol = mydb["apptTimes"]
     mycol.ensureIndex( { 'scan_id':1, 'leaf_num':1 }, { 'unique':True, 'dropDups':True } )
+
+def dropRecordsByProvince(prov):
+    mydb = getDB()
+    mycol = mydb["apptTimes"]
+
+    myquery = { "province": prov }
+
+    mycol.delete_many(myquery)
+
+def dropRecords():
+    mydb = getDB()
+    mycol = mydb["apptTimes"]
+    myquery = {}
+    mycol.delete_many(myquery)
