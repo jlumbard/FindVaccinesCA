@@ -28,4 +28,12 @@ def getMBClinicsFromMap():
     df = df.filter(['name','address','availability','available','phone','website','province','latitude','longitude'])
 
     df['timeScraped'] = datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+    # df['latitude'] = df['latitude']/100000
+    # df['longitude'] = df['longitude']/100000
+
+    # df['latitude'] = df['latitude'] - 15.0456019947
+    # df['longitude'] = df['longitude'] + 11.46318
+
+    del df['latitude']
+    del df['longitude']
     return df

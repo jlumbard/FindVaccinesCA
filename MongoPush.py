@@ -105,3 +105,9 @@ def dropRecords():
     mycol = mydb["apptTimes"]
     myquery = {}
     mycol.delete_many(myquery)
+
+def dropLatLong():
+    mydb = getDB()
+    mycol = mydb["latLongCombo"]
+    myquery = {}
+    mycol.delete_many(myquery)

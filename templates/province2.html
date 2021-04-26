@@ -3153,8 +3153,8 @@
 				element: el,
 				color: "#FFFFFF",
 				draggable: true
-			}).setLngLat([{{x['longitude']}},{{x['latitude']}}])
-				.setPopup(new mapboxgl.Popup().setHTML("<div class='clinicPopup'><h2>{{x['name']}}</h2><h4>{{x['address']}}</h4><h4>{{x['phone']}}</h4><h4>{{x['website']}}</h4></div>"))
+			}).setLngLat([{{x['lon']}},{{x['lat']}}])
+				.setPopup(new mapboxgl.Popup().setHTML(`<div class='clinicPopup'><h2>{{x['name']}}</h2><h4>{{x['address']}}</h4><h4>{{x['phone']}}</h4><h4>{{x['website']}}</h4></div>`))
 				.addTo(map);
 
 			{% endfor %}

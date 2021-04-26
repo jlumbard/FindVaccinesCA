@@ -3,6 +3,7 @@ import sys
 import os
 import Config
 import MongoPush
+import pandas as pd
 
 # to run run these commands sequentially:
 # export FLASK_APP=main.py
@@ -45,7 +46,27 @@ def Province(Province=None):
 
     ProvinceCenters = {'SK':{'LL':[-105.7520351,52],'Zoom':5}, 'ON':{'LL':[-80.2207983,44.4713452],'Zoom':5}, 'QC':{'LL':[-73.5048354, 48.0306551],'Zoom':5},'MB':{'LL':[-98.0561298,51.2537912],'Zoom':5}, 'AB':{'LL':[-114.2950713, 51.5017414],'Zoom':5},'BC':{'LL':[-121.5070517,51.0690983],'Zoom':5}}
     
-    ListOfLocations = MongoPush.getAllLocationsByProvince(Province)
+    ListOfLocations = pd.DataFrame(list(MongoPush.getAllLocationsByProvince(Province)))
+
+
+    
+    allAddressLatLongs = pd.DataFrame(list(MongoPush.getAllLatLong()))
+
+    ListOfLocationsNoLL = ListOfLocations.loc[pd.notna(ListOfLocations['lat']) & pd.notna(ListOfLocations['lon'])]
+    dfAllLocations = pd.merge(allAddressLatLongs,ListOfLocationsNoLL, on="address",how="inner")
+    print(dfAllLocations)
+
+    dfAllLocations = ListOfLocations.append(dfAllLocations,ignore_index=True)
+
+
+
+    dfOnlyWithLatLong = dfAllLocations.loc[pd.notna(dfAllLocations['lat']) & pd.notna(dfAllLocations['lon'])]
+    print(dfOnlyWithLatLong)
+    print(dfOnlyWithLatLong.columns)
+    dfOnlyWithLatLong.to_csv('dfOnlyWithLatLong.csv')
+    print("list")
+    print(dfOnlyWithLatLong.to_dict('records'))
+    
 
     #Do some voodoo here to add the LL if it isn't already in here 
     
@@ -53,4 +74,4 @@ def Province(Province=None):
         # No one should ever get to this URL
         return redirect(url_for(home))
     else:
-        return render_template('province2.html',Province = Province, ProvinceCenter = ProvinceCenters[Province], ListOfLocations = ListOfLocations)
+        return render_template('province2.html',Province = Province, ProvinceCenter = ProvinceCenters[Province], ListOfLocations = dfOnlyWithLatLong.to_dict('records'))

@@ -225,13 +225,15 @@ def GetSKAppointments():
 
     
     df = pd.DataFrame(bigList)
-    df.to_csv('testSKapptDF.csv')
 
     df['time'] = pd.to_datetime(df['Time'])
 
-    groupedDF = df.groupby(['AREA','SITE'])['time'].min()
+    groupedDF = df.groupby(['AREA','SITE'])['time'].min().reset_index()
     print("groupedDF")
     print(groupedDF)
+    print(type(groupedDF))
+    print(groupedDF.columns)
+    groupedDF.to_csv('testSKapptDF.csv')
     groupedDF['name'] = groupedDF['AREA']
     groupedDF['address'] = groupedDF['SITE']
     groupedDF['availability'] = groupedDF['time']
@@ -246,5 +248,5 @@ def GetSKAppointments():
 
     groupedDF.loc[pd.isna(groupedDF['time']),'available'] =False
 
-    df = df.filter(['name','address','availability','available','phone','website','province','latitude','longitude','timeScraped'])
-    return df
+    groupedDF = groupedDF.filter(['name','address','availability','available','phone','website','province','latitude','longitude','timeScraped'])
+    return groupedDF
