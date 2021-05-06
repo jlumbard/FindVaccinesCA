@@ -2,3 +2,5 @@ Config.py
 *.pyc
 *.csv
 __pycache__/
+chromedriver
+ngrok

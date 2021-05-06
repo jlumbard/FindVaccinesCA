@@ -7,6 +7,8 @@ import Scripts.QC.QCLocationsScrape as QCLocationsScrape
 import Scripts.SK.SKAppointments as SKAppointments
 import Scripts.SK.SKWaitTimesDrive as SKWaitTimesDrive
 import Scripts.SK.SKWaitTimesWalk as SKWaitTimesWalk
+import Scripts.SK.SKPharmacies as SKPharmacies
+import Scripts.NS.ScrapeNSAppts as ScrapeNSAppts
 import MongoPush
 import pandas as pd
 import requests
@@ -32,9 +34,15 @@ provinceScrapersDict = {'BC':
 [QCLocationsScrape.scrapeQCLocations],
 
 'SK':
-# [SKWaitTimesDrive.scrapeSKWaitsDriving,
-# SKWaitTimesWalk.scrapeSKWaitsWalk,
-[SKAppointments.GetSKAppointments]
+[
+SKWaitTimesDrive.scrapeSKWaitsDriving,
+SKWaitTimesWalk.scrapeSKWaitsWalk,
+SKPharmacies.getPharmacies,
+SKAppointments.GetSKAppointments
+],
+
+'NS': [ScrapeNSAppts.getNSAppointments]
+
 
 
 }
@@ -44,14 +52,13 @@ def getLatLong(address):
     print(url)
     response = requests.get(url).json()
     try:
-        print(response[0].get('lat',None))
-        print(response[0].get('lon',None))
-        return response[0].get('lat',None), response[0].get("lon",None)
+        print(response[0].get('lat',-1.1))
+        print(response[0].get('lon',-1.1))
+        return response[0].get('lat',-1.1), response[0].get("lon",-1.1)
     except:
-        return None,None
+        return -1.1,-1.1
 
 def DeleteProvinceAndReAdd(Province):
-    MongoPush.dropRecordsByProvince(Province)
     dfAllLocations = pd.DataFrame()
     for func in provinceScrapersDict[Province]:
         df = func()
@@ -64,6 +71,7 @@ def DeleteProvinceAndReAdd(Province):
         dfAllLocations[['availability']] = dfAllLocations[['availability']].astype(object).where(dfAllLocations[['availability']].notnull(), None)
   
     
+    MongoPush.dropRecordsByProvince(Province)
     MongoPush.addManyAppointmentTimes(dfAllLocations.to_dict('records'))
     #Haven't thoroughly tested the above dataframe translation
 
@@ -72,12 +80,24 @@ def DeleteProvinceAndReAdd(Province):
     addresses = []
 
 
+
     allAddressLatLongs = pd.DataFrame(list(MongoPush.getAllLatLong()))
     print(allAddressLatLongs)
 
-
+    scrapedLocationsWithoutLatLon = pd.DataFrame()
     if( not allAddressLatLongs.empty):
-        dfAllLocations = pd.merge(dfAllLocations,allAddressLatLongs, on="address",how="left")
+        if('lat' in dfAllLocations.columns and 'lon' in dfAllLocations.columns):
+            scrapedLocationsWithoutLatLon = dfAllLocations.loc[(pd.isna(dfAllLocations['lat'])) | (pd.isna(dfAllLocations['lon']))].copy()
+            del scrapedLocationsWithoutLatLon['lon']
+            del scrapedLocationsWithoutLatLon['lat']
+            scrapedLocationWithLatLon = pd.merge(scrapedLocationsWithoutLatLon,allAddressLatLongs, on="address",how="left")
+            dfAllLocations = scrapedLocationWithLatLon.append(dfAllLocations.loc[(pd.notna(dfAllLocations['lat'])) | (pd.notna(dfAllLocations['lon']))])
+        else:
+            scrapedLocationsWithoutLatLon = dfAllLocations.copy()
+            dfAllLocations = pd.merge(scrapedLocationsWithoutLatLon,allAddressLatLongs, on="address",how="left")
+        
+    print("df all locations")
+    print(dfAllLocations)
 
 
     addressesWithoutLatLong = pd.DataFrame()
@@ -87,39 +107,42 @@ def DeleteProvinceAndReAdd(Province):
         for i, row in dfAllLocations.iterrows():
             lat, long = getLatLong(dfAllLocations.at[i,'address'])
             # if(lat != None):
-            addressDF = addresses.append({'address':dfAllLocations.at[i,'address'],'lat':lat,'lon':long})
+            addresses.append({'address':dfAllLocations.at[i,'address'],'lat':lat,'lon':long,'province':Province})
+            # print(addresses)
 
         if(len(addresses)>0):
+            print(addresses)
             MongoPush.addManyLatLongCombo(addresses)
 
     else:
-        addressesWithoutLatLong = dfAllLocations.loc[pd.isna(dfAllLocations['lat']) | pd.isna(dfAllLocations['lon'])]    
+        addressesWithoutLatLong = dfAllLocations.loc[(pd.isna(dfAllLocations['lat'])) | (pd.isna(dfAllLocations['lon']))]    
+    print('addr without lat long')
+    print(addressesWithoutLatLong)
 
     if(not addressesWithoutLatLong.empty):
-        for i, row in dfAllLocations.iterrows():
+        print("not empty")
+        for i, row in addressesWithoutLatLong.iterrows():
             lat, long = getLatLong(dfAllLocations.at[i,'address'])
-            if(lat != None):
-                addressDF = addresses.append({'address':dfAllLocations.at[i,'address'],'lat':lat,'lon':long})
+            # if(lat != None):
+            addresses.append({'address':dfAllLocations.at[i,'address'],'lat':lat,'lon':long,'province':Province})
+            # print(addresses)
         if(len(addresses)>0):
+            print(addresses)
             MongoPush.addManyLatLongCombo(addresses)
 
     allAddressLatLongs = pd.DataFrame(list(MongoPush.getAllLatLong()))
-
-    
-        
-        
 
 #The format for the dataframe should be something like:
 
 #"name"
 #"address"      Street,  number, City, Prov.
 #"availability"   if it exists.  
-#"available"    Has stock - boolean on if its active or not 
+#"available"    Has stock - boolean on if its active or not
 #"phone"
 #"website"
 #'province
 #'timeScraped'
-#'type' - important if its walk in or not 
+#'type' - important if its walk in or not "walkIn", "driveThru", 'govtClinic', 'pharmacy'
 
 
 
@@ -128,11 +151,5 @@ def DeleteProvinceAndReAdd(Province):
 # DeleteProvinceAndReAdd('MB')
 # DeleteProvinceAndReAdd('ON')
 # DeleteProvinceAndReAdd('QC')
-# DeleteProvinceAndReAdd('SK')
-
-#50.7811527
-#-101.2911663
-#+11.46318 on lon 
-#-15.0456019947 on lat
-
-
+DeleteProvinceAndReAdd('SK')
+# DeleteProvinceAndReAdd('NS')

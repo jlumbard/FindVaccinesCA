@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+requests
+pandas
+bs4
+pymongo
+numpy
+twilio
+dnspython

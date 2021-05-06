@@ -5,6 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Province – 1</title>
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
 <style id="applicationStylesheet" type="text/css">
 	.mediaViewInfo {
 		--web-view-name: Province – 1;
@@ -20,6 +22,31 @@
 		padding: 0;
 		box-sizing: border-box;
 		border: none;
+	}
+
+	#map {
+		position: absolute;
+		top: 45%;
+		right: 10%;
+		width: 30%;
+		height: 40%;
+
+
+	}
+
+	.clinicPopup{
+		display:flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-evenly;
+	}
+
+	.marker{
+		background-color: red;
+		height: 5px;
+		width: 5px;
+		border-radius: 2.5px;
+		cursor:pointer;
 	}
 	#Province__1 {
 		position: absolute;
@@ -2921,7 +2948,7 @@ window.application = new Application();
 </head>
 <body>
 <div id="Province__1">
-	<img id="Mask_Group_4" src="Mask_Group_4.png" srcset="Mask_Group_4.png 1x, Mask_Group_4@2x.png 2x">
+	<img id="Mask_Group_4" src="/static/Mask_Group_4.png" srcset="/static/Mask_Group_4.png 1x, /static/Mask_Group_4@2x.png 2x">
 		
 	</svg>
 	<div id="Component_11__2" class="Component_11___2">
@@ -2929,13 +2956,37 @@ window.application = new Application();
 			<rect id="Rectangle_80" rx="0" ry="0" x="0" y="0" width="1920" height="135">
 			</rect>
 		</svg>
-		<img id="Asset_1" src="Asset_1.png" srcset="Asset_1.png 1x, Asset_1@2x.png 2x">
+		<img id="Asset_1" src="/static/Asset_1.png" srcset="/static/Asset_1.png 1x, /static/Asset_1@2x.png 2x">
 			
 	</div>
-	<div class="map">
+	<!-- <div class="map">
 		<rect id="map" rx="0" ry="0" x="0" y="0" width="954" height="644">
 		</rect>
-	</div>
+	</div> -->
+	<div id='map'></div>
+		<script>
+			mapboxgl.accessToken = 'pk.eyJ1Ijoic2FyYWhoc2ltIiwiYSI6ImNrbnQzaDhpMDB3aGkzMW8zNjd5OHo4ZnAifQ.GbHlLud52itkQX3LjnDq9g';
+			var map = new mapboxgl.Map({
+				container: 'map', // container ID
+				style: 'mapbox://styles/sarahhsim/cknt43xsv0uu317mlyy9o8bt7', // style URL
+				center: {{ ProvinceCenter['LL']}}, // starting position [lng, lat]
+				zoom: {{ ProvinceCenter['Zoom']}} // starting zoom
+			});
+
+			{% for x in ListOfLocations%}
+			var el = document.createElement('div');
+			el.className = 'marker';
+
+			var marker = new mapboxgl.Marker({
+				element: el,
+				color: "#FFFFFF",
+				draggable: true
+			}).setLngLat([{{x['lon']}},{{x['lat']}}])
+				.setPopup(new mapboxgl.Popup().setHTML(`<div class='clinicPopup'><h2>{{x['name']}}</h2><h4>{{x['address']}}</h4><h4>{{x['phone']}}</h4><h4>{{x['website']}}</h4></div>`))
+				.addTo(map);
+
+			{% endfor %}
+		</script>
 </div>
 </body>
 </html>

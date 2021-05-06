@@ -31,8 +31,8 @@ def getABClinics():
     df['available'] = df['dateAvailable']
     df['website'] = df['bookingLink']
     df['province'] = "AB"
-    df['longitude'] = df['geometry.coordinates'].str[0]
-    df['latitude'] = df['geometry.coordinates'].str[1]
+    df['longitude'] = df['geometry.coordinates'].str[1]
+    df['latitude'] = df['geometry.coordinates'].str[0]
 
     df = df.filter(['name','address','availability','available','phone','website','province','latitude','longitude'])
     df['timeScraped'] = datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
