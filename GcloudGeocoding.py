@@ -71,4 +71,4 @@ def testAddrFinder():
 
     print(ll)
 
-# replaceBlankAddresses('SK')
+replaceBlankAddresses('SK')

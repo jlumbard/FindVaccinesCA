@@ -7,7 +7,7 @@ import Scripts.QC.QCLocationsScrape as QCLocationsScrape
 import Scripts.SK.SKAppointments as SKAppointments
 import Scripts.SK.SKWaitTimesDrive as SKWaitTimesDrive
 import Scripts.SK.SKWaitTimesWalk as SKWaitTimesWalk
-import Scripts.SK.SKPharmacies as SKPharmacies
+import Scripts.SK.SKPharmaciesV2 as SKPharmaciesV2
 import Scripts.NS.ScrapeNSAppts as ScrapeNSAppts
 import MongoPush
 import pandas as pd
@@ -37,7 +37,8 @@ provinceScrapersDict = {'BC':
 [
 SKWaitTimesDrive.scrapeSKWaitsDriving,
 SKWaitTimesWalk.scrapeSKWaitsWalk,
-SKPharmacies.getPharmacies,
+# SKPharmacies.getPharmacies,
+SKPharmaciesV2.getSKPharmaciesv2,
 SKAppointments.GetSKAppointments
 ],
 
